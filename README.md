@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Compétences Techniques
+## 🛠️ Compétences techniques
 
   | Domaine          | Compétences                               |
   | ---------------- | ----------------------------------------- |
@@ -19,6 +19,16 @@
   | Infrastructure   | Git, Docker, FastAPI, Kubernetes, Jenkins |
   | Monitoring       | Prometheus, Grafana                       |
   | Cloud            | AWS                                       |
+
+
+---
+
+## 🛠️ Compétences transférables vers la Data (issues des expériences passées)
+
+  - Compétences techniques : développement de scripts, environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS), détection d’anomalies et investigation
+
+  - Compétences transversales : méthode Agile, amélioration continue, collaboration et coordination inter-équipes, communication et qualité rédactionnelle, mise en place de métriques, rigueur, autonomie, force de proposition, esprit de synthèse, anglais technique
+
 
 ---
 
@@ -88,13 +98,6 @@
 
 
   - **2009–2024 : Ingénieur QA (test et automatisation)** | Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)
-
->    - Compétences transférables vers la Data :
->
->      - Compétences techniques : développement de scripts, environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS), détection d’anomalies et investigation
->
->      - Compétences transversales : méthode Agile, amélioration continue, collaboration et coordination inter-équipes, communication et qualité rédactionnelle, mise en place de métriques, rigueur, autonomie, force de proposition, esprit de synthèse, anglais technique
-
 
     - Activités principales :
 
