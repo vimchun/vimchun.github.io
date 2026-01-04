@@ -1,7 +1,9 @@
 title: "HOANG Minh-Ha"
 description: "Data Engineer | Data Analyst"
 markdown: GFM
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@latest"
+plugins:
+  - jekyll-remote-theme
 # theme: jekyll-theme-leap-day  # title/description (OK), ressemble à la doc python, sections cliquables sur volet gauche (mais trop de sections)
 # theme: jekyll-theme-hacker # title/description (OK), lien url (OK), niveau des sections (KO), icône section dépliée (OK), black theme (OK)
 # theme: jekyll-theme-modernist # title/description (OK), lien url (OK), niveau des sections (KO), icône section dépliée (OK)
