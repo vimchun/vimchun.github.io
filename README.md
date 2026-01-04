@@ -1,20 +1,139 @@
-## Hi there 👋
-Welcome to my profile. 
+# 💡 HOANG Minh-Ha
 
-My name is **Minh**, I am currently transitioning into **data engineering** 🛠️ and actively seeking entry-level roles in the **Île‑de‑France region** (Greater Paris area).
+## 👩‍💻 À propos de moi
 
-Here is my main project: 🔗 **[Job Market in France](https://github.com/vimchun/Job-Market-in-France)**
+Ingénieur ISEP, fort de 18 ans d’expérience en validation logicielle et automatisation de tests, certifié Data Engineer et Data Analyst par les Mines de Paris.
 
-- This project delivers a full end-to-end data pipeline that analyzes the French tech & data job market, from API-based job offer ingestion to visual dashboards and operational monitoring.
+Je mets à profit cette double compétence pour garantir la qualité et la fiabilité des données, concevoir des pipelines ETL robustes et des dashboards BI pertinents, afin de transformer les données en décisions stratégiques.
 
-- ⚙️ Key Components:
+---
 
-  - **Containerised** the full solution using **Docker Compose** (PostgreSQL, Airflow, FastAPI, Prometheus, Grafana)
-  - **Orchestrated** ETL workflows using **Apache Airflow 3.0** (ingested live job offers via REST API, performed data transformations and loaded the results into PostgreSQL)
-  - **Built** a REST API with **FastAPI** 
-  - **Created** interactive **Power BI dashboards**
-  - **Monitored** metrics with **Prometheus**, and **visualised** insights with **Grafana dashboards**
+## 🛠️ Compétences Techniques
 
-<br>
+| Domaine          | Compétences                               |
+| ---------------- | ----------------------------------------- |
+| Langages         | Python, SQL, Bash                         |
+| Data             | Pandas, PySpark, Airflow                  |
+| Visualisation    | Power BI, Matplotlib, Seaborn             |
+| Bases de données | PostgresSQL                               |
+| Infrastructure   | Git, Docker, FastAPI, Kubernetes, Jenkins |
+| Monitoring       | Prometheus, Grafana                       |
+| Cloud            | AWS                                       |
 
-📫 To reach me : [Email](mailto:mhoang86@gmail.com), [LinkedIn](https://www.linkedin.com/in/minh-ha-hoang/)
+---
+
+## 🚀 Projets
+
+### 📊 Analyse des offres d’emploi de la data et de la tech en France
+
+- (Projet fil rouge lors de ma formation Data Engineer chez DataScientest en 2025)
+
+- 🎯 Résultats :
+  - Pipeline de données robuste exécuté quotidiennement
+  - 200k offres d’emploi agrégées en 10 mois
+
+- 📈 Exemples d’insights :
+  - Compétences et soft skills les plus demandés par les recruteurs
+  - Mots-clés les plus récurrents dans les offres d’emploi
+
+- 📝 Actions :
+  - Pipeline ETL avec orchestration de tâches : collecte des données par API (JSON) -> transformations des données -> stockage dans une base de données relationnelle
+  - Développement d’une API et conception de dashboards BI
+  - Mise en place d’un système de monitoring (serveur, base de données, conteneurs…)
+  - Conteneurisation du projet avec Docker Compose
+
+- 🛠️ Stack :
+  - Python, Airflow, PostgreSQL, SQL, FastAPI, Power BI, Prometheus, Grafana, Docker
+
+- 🔗 Liens :
+  - [Github](https://github.com/vimchun/Job-Market-in-France/)
+  - [Github Pages](https://vimchun.github.io/Job-Market-in-France/)
+
+
+### 📊 Analyse et prédiction des délais d’intervention des brigades de pompiers de Londres
+
+- (Projet fil rouge lors de ma formation Data Analyst chez DataScientest en 2024)
+
+- 🎯 Résultats :
+  - Création de data viz à partir de données totalisant 4 millions de lignes et 60 colonnes
+  - Prédiction avec un modèle de classification et une précision de 70%.
+
+- 📈 Exemples d’insights :
+  - Coûts liés aux fausses alertes
+  - Causes les plus fréquentes des retards
+
+- 📝 Actions :
+  - Manipulation et préparation de la data, vérification de la qualité et la fiabilité des données
+  - Storytelling avec mise en œuvre de tableaux de bord décisionnels
+  - Features engineering et machine learning pour estimer les délais d’intervention
+
+- 🛠️ Stack :
+  - Python, Jupyter Notebook, Pandas, PySpark, Power BI, Scikit-learn
+
+- 🔗 Liens :
+  - A venir
+
+---
+
+## 📘 Parcours
+
+- **2025 : Formation Data Engineer** | DataScientest (400 heures)
+  -	Outils avancés : Linux, Bash, Git, Github
+  -	Big Data Variété : SQL, MongoDB
+  -	Batch et Streaming : PySpark
+  -	Cloud : AWS
+  -	Devops et virtualisation : FastAPI, Docker, Kubernetes
+  -	CI/CD : Airflow
+  -	Monitoring : Prometheus et Grafana
+
+
+- **2024 : Formation Data Analyst** | DataScientest (300 heures)
+  - Langage de programmation : Python (Numpy, Pandas)
+  - Visualisation de données : Matplotlib, Seaborn, Plotly, Bokeh
+  - Machine Learning
+  - Business Intelligence : Power BI
+  - Extraction de données : Text Mining, Web Scrapping
+  - Base de données : SQL
+
+
+- **2009–2024 : Ingénieur QA (test et automatisation)** | Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)
+
+  - Compétences transversales et transférables vers la Data :
+    - Développement de scripts
+    - Environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS)
+    - Détection d’anomalies et investigation
+    - Méthode Agile
+    - Amélioration continue
+    - Collaboration et coordination inter-équipes
+    - Communication et qualité rédactionnelle
+    - Mise en place de métriques
+    - Rigueur
+    - Autonomie
+    - Force de proposition
+    - Esprit de synthèse
+    - Anglais technique
+
+
+  - Activités principales :
+
+    - Automatisation de tests exécutés en intégration continue (CI), scripting : développement d’un analyseur de logs, récupération de métadonnées de la production et ingestion massive dans un catalogue VOD, certification Dolby Digital (25 minutes au lieu d’un jour)
+      - Stack : Python, Bash, Robot Framework, Jenkins, AutoIt
+
+    - Exécution de tests et collaboration étroite avec les développeurs pour investiguer les bugs bloquants, administration de plateformes de tests multi-équipes
+
+    - Environnements multi-sites, et déplacements chez les clients à l’international : tests end-to-end, support, investigation des problèmes critiques
+
+    - Référent technique et management d’une équipe de 3 testeurs, gestion de campagnes de tests mobilisant jusqu’à 12 testeurs / développeurs, suivi des métriques et reporting
+
+
+- **2006-2009 : Ecole d'ingénieur ISEP**
+
+- **2004-2006 : Classes préparatoires aux grandes écoles (TSI) **
+
+---
+
+## 📫 Contacts
+
+- 📧 [Email](mailto:mhoang86@gmail.com)
+- 🔗 [Linkedin](https://www.linkedin.com/in/minh-ha-hoang/)
+- 💻 [Github](https://github.com/vimchun/)
