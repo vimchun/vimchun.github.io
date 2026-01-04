@@ -1,4 +1,4 @@
-# 💡 HOANG Minh-Ha
+<!-- # 💡 HOANG Minh-Ha -->
 
 ## 👩‍💻 À propos de moi
 
@@ -24,7 +24,7 @@ Je mets à profit cette double compétence pour garantir la qualité et la fiabi
 
 ## 🚀 Projets
 
-### 📊 Analyse des offres d’emploi de la data et de la tech en France
+### 📊 Projet Data Engineer : Analyse des offres d’emploi de la data et de la tech en France
 
 - (Projet fil rouge lors de ma formation Data Engineer chez DataScientest en 2025)
 
@@ -50,7 +50,7 @@ Je mets à profit cette double compétence pour garantir la qualité et la fiabi
   - [Github Pages](https://vimchun.github.io/Job-Market-in-France/)
 
 
-### 📊 Analyse et prédiction des délais d’intervention des brigades de pompiers de Londres
+### 📊 Projet Data Analyst : Analyse et prédiction des délais d’intervention des brigades de pompiers de Londres
 
 - (Projet fil rouge lors de ma formation Data Analyst chez DataScientest en 2024)
 
@@ -128,7 +128,7 @@ Je mets à profit cette double compétence pour garantir la qualité et la fiabi
 
 - **2006-2009 : Ecole d'ingénieur ISEP**
 
-- **2004-2006 : Classes préparatoires aux grandes écoles (TSI) **
+- **2004-2006 : Classes préparatoires aux grandes écoles (TSI)**
 
 ---
 
