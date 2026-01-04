@@ -9,7 +9,7 @@ plugins:
 # Auteur (affiche la sidebar avec profil)
 author:
   name: "HOANG Minh-Ha"
-  avatar: "/_data/avatar.png"
+  avatar: "/assets/images/avatar.png"
   bio: "Data Engineer | Data Analyst"
   location: "Versailles, FR"
   links:
