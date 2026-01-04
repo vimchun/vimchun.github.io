@@ -9,10 +9,13 @@ plugins:
 # Auteur (affiche la sidebar avec profil)
 author:
   name: "HOANG Minh-Ha"
-  avatar: "/assets/images/avatar.jpg"   # image dans assets
+  avatar: "/assets/images/avatar.jpg"
   bio: "Data Engineer | Data Analyst"
   location: "Versailles, FR"
   links:
+    - label: "E-mail"
+      icon: "fas fa-envelope"        # icône d’enveloppe (Font Awesome)
+      url: "mailto:ton.email@exemple.com"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/vimchun/"
@@ -31,7 +34,7 @@ defaults:
 # (optionnel) Barre de recherche
 search: true
 
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # theme: jekyll-theme-leap-day  # title/description (OK), ressemble à la doc python, sections cliquables sur volet gauche (mais trop de sections)
