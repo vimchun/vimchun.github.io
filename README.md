@@ -1,3 +1,5 @@
+<!-- HOANG Minh-Ha -->
+
 ## 👩‍💻 À propos de moi
 
   - Ingénieur ISEP, fort de 18 ans d’expérience en validation logicielle et automatisation de tests, certifié Data Engineer et Data Analyst par les Mines de Paris.

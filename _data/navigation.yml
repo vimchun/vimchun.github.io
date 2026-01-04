@@ -1,10 +1,10 @@
 # bar en haut
-main:
-  - title: "Accueil"
-    url: /
-  - title: "À propos"
-    url: /about/
-  - title: "Blog"
-    url: /blog/
-  - title: "Contact"
-    url: /contact/
+# main:
+#   - title: "Accueil"
+#     url: /
+#   - title: "À propos"
+#     url: /about/
+#   - title: "Blog"
+#     url: /blog/
+#   - title: "Contact"
+#     url: /contact/
