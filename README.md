@@ -1,4 +1,4 @@
-<!-- # 💡 HOANG Minh-Ha -->
+<!-- HOANG Minh-Ha -->
 
 ## 👩‍💻 À propos de moi
 
