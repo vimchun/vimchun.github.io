@@ -1,5 +1,5 @@
-title: "HOANG Minh-Ha"
-description: "Data Engineer | Data Analyst"
+# title: "HOANG Minh-Ha"
+# description: "Data Engineer | Data Analyst"
 markdown: GFM
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 plugins:
@@ -34,7 +34,7 @@ defaults:
 # Barre de recherche
 search: false
 
-minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # theme: jekyll-theme-leap-day  # title/description (OK), ressemble à la doc python, sections cliquables sur volet gauche (mais trop de sections)
