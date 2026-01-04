@@ -6,6 +6,21 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+# Auteur (affiche la sidebar avec profil)
+author:
+  name: "Mon Nom"
+  avatar: "/assets/images/avatar.jpg"   # image dans assets
+  bio: "🔍 Passionné par la data, le code et la visualisation."
+  location: "Paris, FR"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/mon-username"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/mon-username"
+
+# Mettre le profil auteur par défaut sur toutes les pages
 defaults:
   - scope:
       path: ""
@@ -13,11 +28,9 @@ defaults:
     values:
       author_profile: true
 
-sidebar:
-  - title: "À propos"
-    text: "Bienvenue sur mon site !"
-  - title: "Contact"
-    text: "📩 hello@exemple.com"
+# (optionnel) Barre de recherche
+search: true
+
 
 # theme: jekyll-theme-leap-day  # title/description (OK), ressemble à la doc python, sections cliquables sur volet gauche (mais trop de sections)
 # theme: jekyll-theme-hacker # title/description (OK), lien url (OK), niveau des sections (KO), icône section dépliée (OK), black theme (OK)
