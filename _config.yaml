@@ -8,17 +8,17 @@ plugins:
 
 # Auteur (affiche la sidebar avec profil)
 author:
-  name: "Mon Nom"
+  name: "HOANG Minh-Ha"
   avatar: "/assets/images/avatar.jpg"   # image dans assets
-  bio: "🔍 Passionné par la data, le code et la visualisation."
-  location: "Paris, FR"
+  bio: "Data Engineer | Data Analyst"
+  location: "Versailles, FR"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/mon-username"
+      url: "https://github.com/vimchun/
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/mon-username"
+      url: "https://www.linkedin.com/in/minh-ha-hoang/"
 
 # Mettre le profil auteur par défaut sur toutes les pages
 defaults:
@@ -30,6 +30,8 @@ defaults:
 
 # (optionnel) Barre de recherche
 search: true
+
+minimal_mistakes_skin: # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # theme: jekyll-theme-leap-day  # title/description (OK), ressemble à la doc python, sections cliquables sur volet gauche (mais trop de sections)
