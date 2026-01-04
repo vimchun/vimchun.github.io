@@ -9,7 +9,7 @@ plugins:
 # Auteur (affiche la sidebar avec profil)
 author:
   name: "HOANG Minh-Ha"
-  avatar: "/assets/images/avatar.jpg"
+  avatar: "/_data/avatar.png"
   bio: "Data Engineer | Data Analyst"
   location: "Versailles, FR"
   links:
@@ -31,8 +31,8 @@ defaults:
     values:
       author_profile: true
 
-# (optionnel) Barre de recherche
-search: true
+# Barre de recherche
+search: false
 
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
