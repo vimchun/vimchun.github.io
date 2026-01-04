@@ -81,6 +81,10 @@
     - Langage de programmation (Python, Numpy, Pandas), Visualisation de données (Matplotlib, Seaborn, Plotly, Bokeh), Machine Learning, Business Intelligence (Power BI), Extraction de données (Text Mining, Web Scrapping), Base de données (SQL)
 
 
+  - **2025 : Formation AWS Solutions Architect Associate (SAA-C03)** | Udemy
+    -	Objectif certification en 2026
+
+
   - **2009–2024 : Ingénieur QA (test et automatisation)** | Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)
 
     - Compétences transférables vers la Data :
