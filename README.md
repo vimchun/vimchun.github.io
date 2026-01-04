@@ -23,7 +23,9 @@
 
 ---
 
-## 🛠️ Compétences transférables vers la Data (issues des expériences passées)
+## 🛠️ Compétences transférables vers la Data
+
+  > (issues des expériences passées)
 
   - Compétences techniques : développement de scripts, environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS), détection d’anomalies et investigation
 
@@ -34,7 +36,7 @@
 
 ## 📊 Projet Data Engineer (2025)
 
-  - Analyse des offres d’emploi de la data et de la tech en France
+>  - Analyse des offres d’emploi de la data et de la tech en France
 
   - 🎯 Résultats :
     - Pipeline de données robuste exécuté quotidiennement
@@ -60,7 +62,7 @@
 
 ## 📊 Projet Data Analyst (2024)
 
-  - Analyse et prédiction des délais d’intervention des brigades de pompiers de Londres
+> Analyse et prédiction des délais d’intervention des brigades de pompiers de Londres
 
   - 🎯 Résultats :
     - Création de data viz à partir de données totalisant 4 millions de lignes et 60 colonnes
