@@ -50,7 +50,6 @@ header:
   <br>
 
   - **2025 : Formation Data Engineer** | DataScientest (400 heures)
-    -	Outils avancés (Linux, Bash, Git, Github), Big Data Variété (SQL, MongoDB),	Batch et Streaming (PySpark),	Cloud (AWS), Devops et virtualisation (FastAPI, Docker, Kubernetes), CI/CD (Airflow), Monitoring (Prometheus, Grafana)
 
     <div style="margin-left: 3em;">  <!-- pour aligner le tableau -->
 
@@ -69,8 +68,6 @@ header:
   <br>
 
   - **2024 : Formation Data Analyst** | DataScientest (300 heures)
-    - Langage de programmation (Python, Numpy, Pandas), Visualisation de données (Matplotlib, Seaborn, Plotly, Bokeh), Machine Learning, Business Intelligence (Power BI), Extraction de données (Text Mining, Web Scrapping), Base de données (SQL)
-
 
     <div style="margin-left: 3em;">  <!-- pour aligner le tableau -->
 
