@@ -51,14 +51,7 @@ header:
 
 <div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
 
-  | Langues    | Niveau |
-  | ---------- | ------ |
-  | Français   | C2     |
-  | Anglais    | C1     |
-  | Vietnamien | B1     |
-
   Français : C2 <br> Anglais : C1 <br> Vietnamien : B1
-
 
 </div>
 
