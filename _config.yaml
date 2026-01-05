@@ -24,16 +24,16 @@ author:
       url: "https://github.com/vimchun/"
 
 # Mettre le profil auteur par défaut sur toutes les pages
-# defaults:
-#   - scope:
-#       path: ""
-#       type: pages
-#     values:
-#       author_profile: true
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true
 
 search: false  # barre de recherche
 
-minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # theme: jekyll-theme-leap-day  # title/description (OK), ressemble à la doc python, sections cliquables sur volet gauche (mais trop de sections)
