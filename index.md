@@ -44,6 +44,11 @@ header:
 
 ## 📘 Parcours
 
+  - **2025 : Formation AWS Solutions Architect Associate (SAA-C03)** | Udemy
+    -	Objectif certification en 2026
+
+  <br>
+
   - **2025 : Formation Data Engineer** | DataScientest (400 heures)
     -	Outils avancés (Linux, Bash, Git, Github), Big Data Variété (SQL, MongoDB),	Batch et Streaming (PySpark),	Cloud (AWS), Devops et virtualisation (FastAPI, Docker, Kubernetes), CI/CD (Airflow), Monitoring (Prometheus, Grafana)
 
@@ -51,11 +56,6 @@ header:
 
   - **2024 : Formation Data Analyst** | DataScientest (300 heures)
     - Langage de programmation (Python, Numpy, Pandas), Visualisation de données (Matplotlib, Seaborn, Plotly, Bokeh), Machine Learning, Business Intelligence (Power BI), Extraction de données (Text Mining, Web Scrapping), Base de données (SQL)
-
-  <br>
-
-  - **2025 : Formation AWS Solutions Architect Associate (SAA-C03)** | Udemy
-    -	Objectif certification en 2026
 
   <br>
 
