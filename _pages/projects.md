@@ -35,6 +35,7 @@ header:
     - [Github](https://github.com/vimchun/Job-Market-in-France/)
     - [Github Pages](https://vimchun.github.io/Job-Market-in-France/)
 
+---
 
 # 📊 Projet Data Analyst (2024)
 
