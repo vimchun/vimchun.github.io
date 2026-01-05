@@ -12,8 +12,7 @@ header:
 
 <div style="margin-left: 2em;">  <!-- pour un meilleur alignement -->
 
-  *Ingénieur ISEP, fort de 18 ans d’expérience en validation logicielle et automatisation de tests, certifié Data Engineer et Data Analyst par les Mines de Paris.*
-
+  *Ingénieur ISEP, fort de 18 ans d’expérience en validation logicielle et automatisation de tests, certifié **Data Engineer** et **Data Analyst** par les Mines de Paris.*
 
   *Je mets à profit cette double compétence pour garantir la qualité et la fiabilité des données, concevoir des pipelines ETL robustes et des dashboards BI pertinents, afin de transformer les données en décisions stratégiques.*
 
