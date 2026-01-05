@@ -51,7 +51,7 @@ header:
 
   - **2025 : Formation Data Engineer** | DataScientest (400 heures)
 
-    <div style="margin-left: 3em;">  <!-- pour aligner le tableau -->
+    <div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
 
       | Domaine                  | Compétences                 |
       | ------------------------ | --------------------------- |
@@ -69,7 +69,7 @@ header:
 
   - **2024 : Formation Data Analyst** | DataScientest (300 heures)
 
-    <div style="margin-left: 3em;">  <!-- pour aligner le tableau -->
+    <div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
 
       | Domaine                  | Compétences                        |
       | ------------------------ | ---------------------------------- |
