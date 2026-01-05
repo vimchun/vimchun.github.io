@@ -1,3 +1,13 @@
+---
+title: "HOANG Minh-Ha"
+layout: single
+author_profile: true
+excerpt: "Data Engineer | Data Analyst"
+header:
+  overlay_image: /images/to_complete.jpg
+  overlay_filter: 0.5
+---
+
 <!-- HOANG Minh-Ha -->
 
 ## 👩‍💻 À propos de moi
