@@ -38,10 +38,10 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: single  # au lieu de "pages" pour ne pas avoir "Recents Posts" en bas de la page
       author_profile: true
       # read_time: true
-      # comments: # true
+      # comments:  true
       # share: true
       # related: true
 
