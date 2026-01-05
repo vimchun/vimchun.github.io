@@ -26,42 +26,35 @@ header:
 
   - Compétences techniques :
 
-<div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
+  <div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
 
-  | Domaine          | Compétences                               |
-  | ---------------- | ----------------------------------------- |
-  | Langages         | Python, SQL, Bash                         |
-  | Data             | Pandas, PySpark, Airflow                  |
-  | Visualisation    | Power BI, Matplotlib, Seaborn             |
-  | Bases de données | PostgresSQL                               |
-  | Infrastructure   | Git, Docker, FastAPI, Kubernetes, Jenkins |
-  | Monitoring       | Prometheus, Grafana                       |
-  | Cloud            | AWS                                       |
+    | Domaine          | Compétences                               |
+    | ---------------- | ----------------------------------------- |
+    | Langages         | Python, SQL, Bash                         |
+    | Data             | Pandas, PySpark, Airflow                  |
+    | Visualisation    | Power BI, Matplotlib, Seaborn             |
+    | Bases de données | PostgresSQL                               |
+    | Infrastructure   | Git, Docker, FastAPI, Kubernetes, Jenkins |
+    | Monitoring       | Prometheus, Grafana                       |
+    | Cloud            | AWS                                       |
 
-</div>
-
-
-  - Compétences issues des expériences passées et transférables vers la Data
-
-<div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
-
-  | Domaine                        | Compétences                                                                                                                                                                                                                                                                   |
-  | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | Compétences <br> techniques    | • Automatisation, développement de scripts <br> • Environnement technique : Linux, Docker, Git, Jenkins, Kubernetes, AWS <br> • Détection d’anomalies et investigation                                                                                                        |
-  | Compétences <br> transversales | • Méthode Agile, amélioration continue <br> • Collaboration et coordination inter-équipes <br> • Communication et qualité rédactionnelle <br> • Mise en place de métriques <br> • Rigueur, autonomie, force de proposition, esprit de synthèse <br> • Anglais technique |
-
-</div>
+  </div>
 
 
-  - 💬️ Langues : Français (C2), Anglais (C1), Vietnamien (B1)
+  - Compétences issues des expériences passées et transférables vers la Data :
 
-## 💬️ Langues
+  <div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
 
-<div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
+    | Domaine                        | Compétences                                                                                                                                                                                                                                                             |
+    | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | Compétences <br> techniques    | • Automatisation, développement de scripts <br> • Environnement technique : Linux, Docker, Git, Jenkins, Kubernetes, AWS <br> • Détection d’anomalies et investigation                                                                                                  |
+    | Compétences <br> transversales | • Méthode Agile, amélioration continue <br> • Collaboration et coordination inter-équipes <br> • Communication et qualité rédactionnelle <br> • Mise en place de métriques <br> • Rigueur, autonomie, force de proposition, esprit de synthèse <br> • Anglais technique |
 
-  Français : C2 <br> Anglais : C1 <br> Vietnamien : B1
+  </div>
 
-</div>
+
+  - Langues : Français (C2), Anglais (C1), Vietnamien (B1)
+
 
 ---
 
