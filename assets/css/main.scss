@@ -3,9 +3,11 @@
 @import "minimal-mistakes";
 
 /* Gérer l'espace après les sous-listes */
-ul ul {
-  margin-bottom: 3em;
-}
+ul ul { margin-bottom: 3em; }
+
+
+/* Gérer l'espace après les listes */
+ul ul { margin-bottom: 3em; }
 
 /*
 ul = une liste non ordonnée (<ul>)
