@@ -10,6 +10,8 @@
 
 ## 🛠️ Compétences techniques
 
+<div style="margin-left: 2em;">
+
   | Domaine          | Compétences                               |
   | ---------------- | ----------------------------------------- |
   | Langages         | Python, SQL, Bash                         |
@@ -20,9 +22,11 @@
   | Monitoring       | Prometheus, Grafana                       |
   | Cloud            | AWS                                       |
 
+</div>
+
 ---
 
-## 🛠️ Compétences transférables vers la Data (issues des expériences passées)
+## 🛠️ Compétences (issues des expériences passées) transférables vers la Data
 
   - Compétences techniques : développement de scripts, environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS), détection d’anomalies et investigation
 
