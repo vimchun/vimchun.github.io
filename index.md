@@ -41,7 +41,7 @@ header:
   - Compétences transversales : méthode Agile, amélioration continue, collaboration et coordination inter-équipes, communication et qualité rédactionnelle, mise en place de métriques, rigueur, autonomie, force de proposition, esprit de synthèse, anglais technique
 
 
-## 🛠️ Langues
+## 💬️ Langues
 
 <div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
 
@@ -64,34 +64,28 @@ header:
 
   - **2025 : Formation Data Engineer** | DataScientest (400 heures)
 
-    <div style="margin-left: 1em;">  <!-- pour aligner le tableau -->
-
-      | Domaine                  | Compétences                 |
-      | ------------------------ | --------------------------- |
-      | Outils avancés           | Linux, Bash, Git, Github    |
-      | Big Data Variété         | SQL, MongoDB                |
-      | Batch et Streaming       | PySpark                     |
-      | Cloud                    | AWS                         |
-      | Devops et virtualisation | FastAPI, Docker, Kubernetes |
-      | CI/CD                    | Airflow                     |
-      | Monitoring               | Prometheus, Grafana         |
-
-    </div>
+    | Domaine                  | Compétences                 |
+    | ------------------------ | --------------------------- |
+    | Outils avancés           | Linux, Bash, Git, Github    |
+    | Big Data Variété         | SQL, MongoDB                |
+    | Batch et Streaming       | PySpark                     |
+    | Cloud                    | AWS                         |
+    | Devops et virtualisation | FastAPI, Docker, Kubernetes |
+    | CI/CD                    | Airflow                     |
+    | Monitoring               | Prometheus, Grafana         |
 
   <br>
 
   - **2024 : Formation Data Analyst** | DataScientest (300 heures)
 
-
-      | Domaine                  | Compétences                        |
-      | ------------------------ | ---------------------------------- |
-      | Langage de programmation | Python, Numpy, Pandas              |
-      | Visualisation de données | Matplotlib, Seaborn, Plotly, Bokeh |
-      | Machine Learning         |                                    |
-      | Business Intelligence    | Power BI                           |
-      | Extraction de données    | Text Mining, Web Scrapping         |
-      | Base de données          | SQL                                |
-
+    | Domaine                  | Compétences                        |
+    | ------------------------ | ---------------------------------- |
+    | Langage de programmation | Python, Numpy, Pandas              |
+    | Visualisation de données | Matplotlib, Seaborn, Plotly, Bokeh |
+    | Machine Learning         |                                    |
+    | Business Intelligence    | Power BI                           |
+    | Extraction de données    | Text Mining, Web Scrapping         |
+    | Base de données          | SQL                                |
 
   <br>
 
@@ -114,7 +108,7 @@ header:
 
 ---
 
-## 📫 Centres d'intérêt
+## 📋 Centres d'intérêt
 
   - 🥋 Arts martiaux (Wing Chun, Penchak Silat)
 
