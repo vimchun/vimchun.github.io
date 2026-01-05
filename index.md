@@ -14,6 +14,8 @@ header:
 
   - *Je mets à profit cette double compétence pour garantir la qualité et la fiabilité des données, concevoir des pipelines ETL robustes et des dashboards BI pertinents, afin de transformer les données en décisions stratégiques.*
 
+  - *Vous trouverez mes projets [ici](https://vimchun.github.io/projects/).*
+
 ---
 
 ## 🛠️ Compétences techniques
