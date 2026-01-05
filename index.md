@@ -40,6 +40,19 @@ header:
 
   - Compétences transversales : méthode Agile, amélioration continue, collaboration et coordination inter-équipes, communication et qualité rédactionnelle, mise en place de métriques, rigueur, autonomie, force de proposition, esprit de synthèse, anglais technique
 
+
+## 🛠️ Langues
+
+<div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
+
+  | Langues    | Niveau |
+  | ---------- | ------ |
+  | Français   | C2     |
+  | Anglais    | C1     |
+  | Vietnamien | B1     |
+
+</div>
+
 ---
 
 ## 📘 Parcours
@@ -100,6 +113,16 @@ header:
   - **2006-2009 : Ecole d'ingénieur ISEP**
 
   - **2004-2006 : Classes Préparatoires aux Grandes Ecoles (TSI)**
+
+---
+
+## 📫 Centres d'intérêt
+
+  - 🥋 Arts martiaux : Wing Chun, Penchak Silat
+
+  - 🏋️‍♂️ Calisthénie
+
+  - 🎸 Guitare électrique (autodidacte)
 
 ---
 
