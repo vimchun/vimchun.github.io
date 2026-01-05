@@ -34,7 +34,7 @@ header:
 
 ---
 
-## 🛠️ Compétences (issues des expériences passées) transférables vers la Data
+## 🛠️ Compétences issues des expériences passées et transférables vers la Data
 
   - Compétences techniques : développement de scripts, environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS), détection d’anomalies et investigation
 
