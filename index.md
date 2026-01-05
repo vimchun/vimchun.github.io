@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.7  # 0 (opaque) -> 1 (transparent)
 ---
 
-# 👩‍💻 À propos de moi
+## 👩‍💻 À propos de moi
 
   - *Ingénieur ISEP, fort de 18 ans d’expérience en validation logicielle et automatisation de tests, certifié Data Engineer et Data Analyst par les Mines de Paris.*
 
@@ -16,7 +16,7 @@ header:
 
 ---
 
-# 🛠️ Compétences techniques
+## 🛠️ Compétences techniques
 
 <div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
 
@@ -34,7 +34,7 @@ header:
 
 ---
 
-# 🛠️ Compétences issues des expériences passées et transférables vers la Data
+## 🛠️ Compétences issues des expériences passées et transférables vers la Data
 
   - Compétences techniques : développement de scripts, environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS), détection d’anomalies et investigation
 
@@ -42,7 +42,7 @@ header:
 
 ---
 
-# 📘 Parcours
+## 📘 Parcours
 
   - **2025 : Formation Data Engineer** | DataScientest (400 heures)
     -	Outils avancés (Linux, Bash, Git, Github), Big Data Variété (SQL, MongoDB),	Batch et Streaming (PySpark),	Cloud (AWS), Devops et virtualisation (FastAPI, Docker, Kubernetes), CI/CD (Airflow), Monitoring (Prometheus, Grafana)
@@ -78,6 +78,6 @@ header:
 
 ---
 
-# 📫 Contacts
+## 📫 Contacts
 
   - [Email](mailto:mhoang86@gmail.com) | [Linkedin](https://www.linkedin.com/in/minh-ha-hoang/) | [Github](https://github.com/vimchun/)

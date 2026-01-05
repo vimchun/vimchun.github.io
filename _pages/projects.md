@@ -9,8 +9,7 @@ header:
   overlay_filter: 0.7  # 0 (opaque) -> 1 (transparent)
 ---
 
-
-# 📊 Projet Data Engineer (2025)
+## 📊 Projet Data Engineer (2025)
 
   - Analyse des offres d’emploi de la data et de la tech en France
 
@@ -37,7 +36,7 @@ header:
 
 ---
 
-# 📊 Projet Data Analyst (2024)
+## 📊 Projet Data Analyst (2024)
 
   - Analyse et prédiction des délais d’intervention des brigades de pompiers de Londres
 
