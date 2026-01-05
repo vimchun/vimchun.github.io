@@ -102,7 +102,6 @@ header:
     - Environnements multi-sites, et déplacements chez les clients à l’international : tests end-to-end, support, investigation des problèmes critiques
 
     - Référent technique et management d’une équipe de 3 testeurs, gestion de campagnes de tests mobilisant jusqu’à 12 testeurs / développeurs, suivi des métriques et reporting
-  <br>
 
   - **2006-2009 : Ecole d'ingénieur ISEP**
 
@@ -112,11 +111,15 @@ header:
 
 ## 📋 Centres d'intérêt
 
+<div style="margin-left: 2em;">  <!-- pour un meilleur alignement -->
+
   🥋 Arts martiaux (Wing Chun, Penchak Silat)
 
   ️🏃‍♀️ Calisthénie
 
   🎸 Guitare électrique (autodidacte)
+
+</div>
 
 ---
 
