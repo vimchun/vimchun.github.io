@@ -42,7 +42,7 @@ header:
 
   - 🎯 Résultats :
     - Création de data viz à partir de données totalisant 4 millions de lignes et 60 colonnes
-    - Prédiction avec un modèle de classification et une précision de 70%.
+    - Prédiction avec un modèle de classification et une précision de 70%
 
   - 📈 Exemples d’insights :
     - Coûts liés aux fausses alertes

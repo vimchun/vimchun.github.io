@@ -14,7 +14,7 @@ header:
 
   - *Je mets à profit cette double compétence pour garantir la qualité et la fiabilité des données, concevoir des pipelines ETL robustes et des dashboards BI pertinents, afin de transformer les données en décisions stratégiques.*
 
-  - *Vous trouverez mes projets [ici](https://vimchun.github.io/projects/).*
+  - *Vous trouverez mes projets en data [ici](https://vimchun.github.io/projects/).*
 
 ---
 
@@ -94,7 +94,7 @@ header:
   - **2009–2024 : Ingénieur QA (test et automatisation)** | Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)
 
     - Automatisation de tests exécutés en intégration continue (CI), scripting : développement d’un analyseur de logs, récupération de métadonnées de la production et ingestion massive dans un catalogue VOD, certification Dolby Digital (25 minutes au lieu d’un jour)
-      - Stack : Python, Bash, Robot Framework, Jenkins, AutoIt
+      - 🛠️ Stack : Python, Bash, Robot Framework, Jenkins, AutoIt
 
     - Exécution de tests et collaboration étroite avec les développeurs pour investiguer les bugs bloquants, administration de plateformes de tests multi-équipes
 
