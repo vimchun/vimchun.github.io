@@ -1,3 +1,10 @@
+---
+title: Ma page
+layout: single
+page_css:
+  - /assets/css/custom.css
+---
+
 <!-- HOANG Minh-Ha -->
 
 ## 👩‍💻 À propos de moi
