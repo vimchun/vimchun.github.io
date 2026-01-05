@@ -51,7 +51,7 @@ header:
 
   | Domaine                   | Compétences                                                                                                                                                                                                                             |
   | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | Compétences techniques    | Développement de scripts <br> Environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS) <br> Détection d’anomalies et investigation                                                                                  |
+  | Compétences techniques    | - Développement de scripts <br> - Environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS) <br> Détection d’anomalies et investigation                                                                                  |
   | Compétences transversales | méthode Agile, amélioration continue, collaboration et coordination inter-équipes, communication et qualité rédactionnelle, mise en place de métriques, rigueur, autonomie, force de proposition, esprit de synthèse, anglais technique |
 
 </div>
