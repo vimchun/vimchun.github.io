@@ -1,10 +1,6 @@
 # bar en haut
-# main:
-#   - title: "Accueil"
-#     url: /
-#   - title: "À propos"
-#     url: /about/
-#   - title: "Blog"
-#     url: /blog/
-#   - title: "Contact"
-#     url: /contact/
+main:
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: https://vimchun.github.io/

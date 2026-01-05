@@ -16,27 +16,12 @@ author:
   email: "mhoang86@gmail.com"
   github: "vimchun"
   linkedin: "minh-ha-hoang"
-  # links:
-  #   - label: "E-mail"
-  #     icon: "fas fa-envelope"        # Font Awesome
-  #     url: "mailto:mhoang86@gmail.com"
-  #   - label: "LinkedIn"
-  #     icon: "fab fa-linkedin"
-  #     url: "https://www.linkedin.com/in/minh-ha-hoang/"
-  #   - label: "GitHub"
-  #     icon: "fab fa-github"
-  #     url: "https://github.com/vimchun/"
 
+# git remote set-url origin https://github.com/ton‑username/toto.github.io.git
 
+# git remote set-url origin https://github.com/vimchun/vimchun.github.io.git
 
-
-# Mettre le profil auteur par défaut sur toutes les pages
-# defaults:
-#   - scope:
-#       path: ""
-#       type: pages
-#     values:
-#       author_profile: true
+# origin  git@github.com:vimchun/vimchun.git (fetch)
 
 # Defaults
 defaults:
