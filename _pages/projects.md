@@ -16,20 +16,20 @@ header:
   - 🎯 Résultats :
     - Pipeline de données robuste exécuté quotidiennement
     - 200k offres d’emploi agrégées en 10 mois
-
+  <br>
   - 📈 Exemples d’insights :
     - Compétences et soft skills les plus demandés par les recruteurs
     - Mots-clés les plus récurrents dans les offres d’emploi
-
+  <br>
   - 📝 Actions :
     - Pipeline ETL avec orchestration de tâches : collecte des données par API (JSON) -> transformations des données -> stockage dans une base de données relationnelle
     - Développement d’une API et conception de dashboards BI
     - Mise en place d’un système de monitoring (serveur, base de données, conteneurs…)
     - Conteneurisation du projet avec Docker Compose
-
+  <br>
   - 🛠️ Stack :
     - Python, Airflow, PostgreSQL, SQL, FastAPI, Power BI, Prometheus, Grafana, Docker
-
+  <br>
   - 🔗 Liens :
     - [Github](https://github.com/vimchun/Job-Market-in-France/)
     - [Github Pages](https://vimchun.github.io/Job-Market-in-France/)
@@ -43,19 +43,18 @@ header:
   - 🎯 Résultats :
     - Création de data viz à partir de données totalisant 4 millions de lignes et 60 colonnes
     - Prédiction avec un modèle de classification et une précision de 70%
-
+  <br>
   - 📈 Exemples d’insights :
     - Coûts liés aux fausses alertes
     - Causes les plus fréquentes des retards
-
+  <br>
   - 📝 Actions :
     - Manipulation et préparation de la data, vérification de la qualité et la fiabilité des données
     - Storytelling avec mise en œuvre de tableaux de bord décisionnels
     - Features engineering et machine learning pour estimer les délais d’intervention
-
+  <br>
   - 🛠️ Stack :
     - Python, Jupyter Notebook, Pandas, PySpark, Power BI, Scikit-learn
-
+  <br>
   - 🔗 Liens :
     - A venir
-
