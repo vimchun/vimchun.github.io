@@ -6,7 +6,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-# Auteur (affiche la sidebar avec profil)
+# Affiche la sidebar avec profil
 author:
   name: "HOANG Minh-Ha"
   avatar: "/assets/images/avatar.png"
@@ -15,26 +15,25 @@ author:
   links:
     - label: "E-mail"
       icon: "fas fa-envelope"        # Font Awesome
-      url: "mailto:ton.email@exemple.com"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/vimchun/"
+      url: "mailto:mhoang86@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/minh-ha-hoang/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/vimchun/"
 
 # Mettre le profil auteur par défaut sur toutes les pages
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      author_profile: true
+# defaults:
+#   - scope:
+#       path: ""
+#       type: pages
+#     values:
+#       author_profile: true
 
-# Barre de recherche
-search: false
+search: false  # barre de recherche
 
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # theme: jekyll-theme-leap-day  # title/description (OK), ressemble à la doc python, sections cliquables sur volet gauche (mais trop de sections)

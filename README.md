@@ -20,17 +20,13 @@
   | Monitoring       | Prometheus, Grafana                       |
   | Cloud            | AWS                                       |
 
-
 ---
 
-## 🛠️ Compétences transférables vers la Data
-
-  - (issues des expériences passées)
+## 🛠️ Compétences transférables vers la Data (issues des expériences passées)
 
   - Compétences techniques : développement de scripts, environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS), détection d’anomalies et investigation
 
   - Compétences transversales : méthode Agile, amélioration continue, collaboration et coordination inter-équipes, communication et qualité rédactionnelle, mise en place de métriques, rigueur, autonomie, force de proposition, esprit de synthèse, anglais technique
-
 
 ---
 
@@ -121,9 +117,4 @@
 
 ## 📫 Contacts
 
-  - 📧 [Email](mailto:mhoang86@gmail.com)
-
-  - 🔗 [Linkedin](https://www.linkedin.com/in/minh-ha-hoang/)
-
-  - 💻 [Github](https://github.com/vimchun/)
-
+  - [Email](mailto:mhoang86@gmail.com) | [Linkedin](https://www.linkedin.com/in/minh-ha-hoang/) | [Github](https://github.com/vimchun/)
