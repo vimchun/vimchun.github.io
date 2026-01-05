@@ -64,7 +64,7 @@ header:
 
   - **2025 : Formation Data Engineer** | DataScientest (400 heures)
 
-    <div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
+    <div style="margin-left: 1em;">  <!-- pour aligner le tableau -->
 
       | Domaine                  | Compétences                 |
       | ------------------------ | --------------------------- |
@@ -82,7 +82,6 @@ header:
 
   - **2024 : Formation Data Analyst** | DataScientest (300 heures)
 
-    <div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
 
       | Domaine                  | Compétences                        |
       | ------------------------ | ---------------------------------- |
@@ -93,7 +92,6 @@ header:
       | Extraction de données    | Text Mining, Web Scrapping         |
       | Base de données          | SQL                                |
 
-    </div>
 
   <br>
 
@@ -118,9 +116,9 @@ header:
 
 ## 📫 Centres d'intérêt
 
-  - 🥋 Arts martiaux : Wing Chun, Penchak Silat
+  - 🥋 Arts martiaux (Wing Chun, Penchak Silat)
 
-  - 🏋️‍♂️ Calisthénie
+  - ️🏃‍♀️ Calisthénie
 
   - 🎸 Guitare électrique (autodidacte)
 
