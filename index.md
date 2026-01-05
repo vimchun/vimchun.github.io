@@ -22,7 +22,9 @@ header:
 
 ---
 
-## 🛠️ Compétences techniques
+## 🛠️ Compétences
+
+  - Compétences techniques :
 
 <div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
 
@@ -38,10 +40,8 @@ header:
 
 </div>
 
----
 
-## 🛠️ Compétences issues des expériences passées et transférables vers la Data
-
+  - Compétences issues des expériences passées et transférables vers la Data
 
 <div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
 
@@ -52,10 +52,8 @@ header:
 
 </div>
 
-  - Compétences techniques : développement de scripts, environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS), détection d’anomalies et investigation
 
-  - Compétences transversales : méthode Agile, amélioration continue, collaboration et coordination inter-équipes, communication et qualité rédactionnelle, mise en place de métriques, rigueur, autonomie, force de proposition, esprit de synthèse, anglais technique
-
+  - 💬️ Langues : Français (C2), Anglais (C1), Vietnamien (B1)
 
 ## 💬️ Langues
 
