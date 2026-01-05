@@ -1,0 +1,9 @@
+a.no-underline {
+  color: inherit;          /* reprend la couleur du texte normal */
+  text-decoration: none;   /* supprime le soulignement */
+}
+
+/* Optionnel : style au survol */
+a.no-underline:hover {
+  text-decoration: underline;
+}
