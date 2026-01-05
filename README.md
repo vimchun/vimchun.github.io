@@ -127,6 +127,11 @@
 
   - 💻 [Github](https://github.com/vimchun/)
 
+
+<a href="mailto:mhoang86@gmail.com">
+  <i class="fab fa-linkedin"></i>Email
+</a>
+
 <a href="https://www.linkedin.com/in/minh-ha-hoang/">
   <i class="fab fa-linkedin"></i>LinkedIn
 </a>

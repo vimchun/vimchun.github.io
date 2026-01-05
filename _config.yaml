@@ -14,7 +14,7 @@ author:
   location: "Versailles, FR"
   links:
     - label: "E-mail"
-      icon: "fas fa-envelope"        # icône d’enveloppe (Font Awesome)
+      icon: "fas fa-envelope"        # Font Awesome
       url: "mailto:ton.email@exemple.com"
     - label: "GitHub"
       icon: "fab fa-github"
