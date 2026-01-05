@@ -16,7 +16,7 @@ header:
 
   *Je mets à profit cette double compétence pour garantir la qualité et la fiabilité des données, concevoir des pipelines ETL robustes et des dashboards BI pertinents, afin de transformer les données en décisions stratégiques.*
 
-  *Vous trouverez mes projets en data [ici](https://vimchun.github.io/projects/).*
+  *Vous trouverez mes projets data [ici](https://vimchun.github.io/projects/).*
 
 </div>
 
@@ -105,7 +105,6 @@ header:
   <br>
 
   - **2006-2009 : Ecole d'ingénieur ISEP**
-  <br>
 
   - **2004-2006 : Classes Préparatoires aux Grandes Ecoles (TSI)**
 
@@ -113,11 +112,11 @@ header:
 
 ## 📋 Centres d'intérêt
 
-  - 🥋 Arts martiaux (Wing Chun, Penchak Silat)
+  🥋 Arts martiaux (Wing Chun, Penchak Silat)
 
-  - ️🏃‍♀️ Calisthénie
+  ️🏃‍♀️ Calisthénie
 
-  - 🎸 Guitare électrique (autodidacte)
+  🎸 Guitare électrique (autodidacte)
 
 ---
 
