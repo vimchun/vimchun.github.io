@@ -129,7 +129,7 @@
 
 
 <a href="mailto:mhoang86@gmail.com" class="no-underline">
-  <i class=""fas fa-envelope></i>Email
+  <i class="fas fa-envelope"></i>Email
 </a>
 
 <a href="https://www.linkedin.com/in/minh-ha-hoang/">
