@@ -126,3 +126,7 @@
   - 🔗 [Linkedin](https://www.linkedin.com/in/minh-ha-hoang/)
 
   - 💻 [Github](https://github.com/vimchun/)
+
+<a href="https://www.linkedin.com/in/ton-profil">
+  <i class="fab fa-linkedin"></i> LinkedIn
+</a>
