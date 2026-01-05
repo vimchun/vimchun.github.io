@@ -42,19 +42,19 @@ header:
 
 ## 🛠️ Compétences issues des expériences passées et transférables vers la Data
 
-  - Compétences techniques : développement de scripts, environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS), détection d’anomalies et investigation
-
-  - Compétences transversales : méthode Agile, amélioration continue, collaboration et coordination inter-équipes, communication et qualité rédactionnelle, mise en place de métriques, rigueur, autonomie, force de proposition, esprit de synthèse, anglais technique
-
 
 <div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
 
-  | Domaine                   | Compétences                                                                                                                                                                                                                             |
-  | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | Compétences techniques    | - Développement de scripts <br> - Environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS) <br> Détection d’anomalies et investigation                                                                                  |
-  | Compétences transversales | méthode Agile, amélioration continue, collaboration et coordination inter-équipes, communication et qualité rédactionnelle, mise en place de métriques, rigueur, autonomie, force de proposition, esprit de synthèse, anglais technique |
+  | Domaine                   | Compétences                                                                                                                                                                                                                                                                                     |
+  | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | Compétences techniques    | • Développement de scripts <br> • Environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS) <br> • Détection d’anomalies et investigation                                                                                                                                    |
+  | Compétences transversales | • Méthode Agile <br> • Amélioration continue <br> • Collaboration et coordination inter-équipes <br> • Communication et qualité rédactionnelle <br> • Mise en place de métriques <br> • Rigueur <br> • Autonomie <br> • Force de proposition <br> • Esprit de synthèse <br> • Anglais technique |
 
 </div>
+
+  - Compétences techniques : développement de scripts, environnement technique (Linux, Docker, Git, Jenkins, Kubernetes, Cloud AWS), détection d’anomalies et investigation
+
+  - Compétences transversales : méthode Agile, amélioration continue, collaboration et coordination inter-équipes, communication et qualité rédactionnelle, mise en place de métriques, rigueur, autonomie, force de proposition, esprit de synthèse, anglais technique
 
 
 ## 💬️ Langues
