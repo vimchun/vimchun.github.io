@@ -17,11 +17,11 @@ author:
   github: "vimchun"
   linkedin: "minh-ha-hoang"
 
-# git remote set-url origin https://github.com/ton‑username/toto.github.io.git
+# Reading Files
+include:
+  # - .htaccess
+  - _pages
 
-# git remote set-url origin https://github.com/vimchun/vimchun.github.io.git
-
-# origin  git@github.com:vimchun/vimchun.git (fetch)
 
 # Defaults
 defaults:
