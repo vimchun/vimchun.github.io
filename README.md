@@ -1,11 +1,3 @@
----
-title: Contact
-layout: single
-permalink: /contact/
-page_css:
-  - /assets/css/custom.css
----
-
 <!-- HOANG Minh-Ha -->
 
 ## 👩‍💻 À propos de moi
@@ -134,17 +126,4 @@ page_css:
   - 🔗 [Linkedin](https://www.linkedin.com/in/minh-ha-hoang/)
 
   - 💻 [Github](https://github.com/vimchun/)
-
-
-<a href="mailto:mhoang86@gmail.com" class="no-underline">
-  <i class="fas fa-envelope"></i>Email
-</a>
-
-<a href="https://www.linkedin.com/in/minh-ha-hoang/">
-  <i class="fab fa-linkedin"></i>LinkedIn
-</a>
-
-<a href="https://github.com/vimchun/">
-  <i class="fab fa-github"></i>GitHub
-</a>
 
