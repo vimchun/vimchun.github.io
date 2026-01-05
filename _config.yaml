@@ -24,12 +24,27 @@ author:
       url: "https://github.com/vimchun/"
 
 # Mettre le profil auteur par défaut sur toutes les pages
+# defaults:
+#   - scope:
+#       path: ""
+#       type: pages
+#     values:
+#       author_profile: true
+
+# Defaults
 defaults:
+  # _posts
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
+      layout: single
       author_profile: true
+      # read_time: true
+      # comments: # true
+      # share: true
+      # related: true
+
 
 search: false  # barre de recherche
 

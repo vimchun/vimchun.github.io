@@ -10,7 +10,7 @@
 
 ## 🛠️ Compétences techniques
 
-<div style="margin-left: 2em;">
+<div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
 
   | Domaine          | Compétences                               |
   | ---------------- | ----------------------------------------- |
