@@ -1,6 +1,7 @@
 ---
-title: Ma page
+title: Contact
 layout: single
+permalink: /contact/
 page_css:
   - /assets/css/custom.css
 ---
