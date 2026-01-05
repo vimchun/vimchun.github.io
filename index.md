@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 excerpt: "Data Engineer | Data Analyst"
 header:
-  overlay_image: /images/overlay_image.jpg
+  overlay_image: /images/overlay_image.jpeg
   overlay_filter: 0.5
 ---
 
