@@ -13,16 +13,22 @@ author:
   avatar: "/images/avatar.png"
   bio: "Data Engineer | Data Analyst"
   location: "Versailles, FR"
-  links:
-    - label: "E-mail"
-      icon: "fas fa-envelope"        # Font Awesome
-      url: "mailto:mhoang86@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/minh-ha-hoang/"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/vimchun/"
+  email: "mhoang86@gmail.com"
+  github: "vimchun"
+  linkedin: "minh-ha-hoang"
+  # links:
+  #   - label: "E-mail"
+  #     icon: "fas fa-envelope"        # Font Awesome
+  #     url: "mailto:mhoang86@gmail.com"
+  #   - label: "LinkedIn"
+  #     icon: "fab fa-linkedin"
+  #     url: "https://www.linkedin.com/in/minh-ha-hoang/"
+  #   - label: "GitHub"
+  #     icon: "fab fa-github"
+  #     url: "https://github.com/vimchun/"
+
+
+
 
 # Mettre le profil auteur par défaut sur toutes les pages
 # defaults:
