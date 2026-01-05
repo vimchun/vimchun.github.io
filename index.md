@@ -65,7 +65,7 @@ header:
 
   - **2025 : Formation AWS Solutions Architect Associate (SAA-C03)** | Udemy
     -	Objectif certification en 2026
-    <br>
+
 
   - **2025 : Formation Data Engineer** | DataScientest (400 heures)
 
@@ -78,7 +78,7 @@ header:
     | Devops et virtualisation | FastAPI, Docker, Kubernetes |
     | CI/CD                    | Airflow                     |
     | Monitoring               | Prometheus, Grafana         |
-  <br>
+
 
   - **2024 : Formation Data Analyst** | DataScientest (300 heures)
 
@@ -90,7 +90,7 @@ header:
     | Business Intelligence    | Power BI                           |
     | Extraction de données    | Text Mining, Web Scrapping         |
     | Base de données          | SQL                                |
-  <br>
+
 
   - **2009–2024 : Ingénieur QA (test et automatisation)** | Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)
 
@@ -103,7 +103,9 @@ header:
 
     - Référent technique et management d’une équipe de 3 testeurs, gestion de campagnes de tests mobilisant jusqu’à 12 testeurs / développeurs, suivi des métriques et reporting
 
+
   - **2006-2009 : Ecole d'ingénieur ISEP**
+
 
   - **2004-2006 : Classes Préparatoires aux Grandes Ecoles (TSI)**
 
