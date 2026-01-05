@@ -127,6 +127,11 @@
 
   - 💻 [Github](https://github.com/vimchun/)
 
-<a href="https://www.linkedin.com/in/ton-profil">
-  <i class="fab fa-linkedin"></i> LinkedIn
+<a href="https://www.linkedin.com/in/minh-ha-hoang/">
+  <i class="fab fa-linkedin"></i>LinkedIn
 </a>
+
+<a href="https://github.com/vimchun/">
+  <i class="fab fa-github"></i>GitHub
+</a>
+
