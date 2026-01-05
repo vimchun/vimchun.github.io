@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Data Engineer | Data Analyst"
 header:
   overlay_image: /images/overlay_image.jpeg
-  overlay_filter: 0.5
+  overlay_filter: 0.3
 ---
 
 <!-- HOANG Minh-Ha -->
