@@ -57,6 +57,9 @@ header:
   | Anglais    | C1     |
   | Vietnamien | B1     |
 
+  Français : C2 <br> Anglais : C1 <br> Vietnamien : B1
+
+
 </div>
 
 ---
