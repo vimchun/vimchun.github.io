@@ -12,13 +12,15 @@ header:
 
 <!-- <div style="margin-left: 2em;">  pour un meilleur alignement -->
 
+<div class="smaller-text">
+
   *Ingénieur ISEP, fort de 18 ans d’expérience en validation logicielle et automatisation de tests, certifié **Data Engineer** et **Data Analyst** par les Mines de Paris.*
 
   *Je mets à profit cette double compétence pour garantir la qualité et la fiabilité des données, concevoir des pipelines ETL robustes et des dashboards BI pertinents, afin de transformer les données en décisions stratégiques.*
 
   *Vous trouverez mes **projets data** [ici](https://vimchun.github.io/projects/).*
 
-<!-- </div> -->
+</div>
 
 ---
 
@@ -52,6 +54,9 @@ header:
 
 
 **Langues :** <div class="smaller-text"> Français (C2), Anglais (C1), Vietnamien (B1) </div>
+
+**Langues :** <span class="smaller-text">Français (C2), Anglais (C1), Vietnamien (B1)</span>
+
 
 ---
 

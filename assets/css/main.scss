@@ -2,8 +2,8 @@
 ---
 @import "minimal-mistakes";
 
-// table { margin-bottom: 2em; }  /* espace après les tableaux */
-// ul ul { margin-bottom: 2em; }  /* espace après les sous-listes */
+table { margin-bottom: 2em; }  // espace après les tableaux
+ul ul { margin-bottom: 2em; }  // espace après les sous-listes
 
 .smaller-text {
   font-size: 0.8rem;   // 0.5rem => 2x plus petit
@@ -11,15 +11,8 @@
 
 .smaller-text ul li,
 .smaller-text ol li {
-  line-height: 1.1; /* plus petit que 1.5 = moins d'espace */
+  line-height: 1.1; // plus petit que 1.5 = moins d'espace
 }
-
-
-
-// /* assets/css/main.scss */
-// ul li, ol li {
-//   font-size: 0.5em;  // 0.5em => 2x plus petit
-// }
 
 
 /*
