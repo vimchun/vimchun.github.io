@@ -13,24 +13,24 @@ header:
 
 **Analyse des offres d’emploi de la data et de la tech en France**
 
-🎯 Résultats :
+🎯 <u>Résultats :</u>
   - Pipeline de données robuste exécuté quotidiennement
   - 200k offres d’emploi agrégées en 10 mois
 
-📈 Exemples d’insights :
+📈 <u>Exemples d’insights :</u>
   - Compétences et soft skills les plus demandés par les recruteurs
   - Mots-clés les plus récurrents dans les offres d’emploi
 
-📝 Actions :
+📝 <u>Actions :</u>
   - Pipeline ETL avec orchestration de tâches : collecte des données par API (JSON) -> transformations des données -> stockage dans une base de données relationnelle
   - Développement d’une API et conception de dashboards BI
   - Mise en place d’un système de monitoring (serveur, base de données, conteneurs…)
   - Conteneurisation du projet avec Docker Compose
 
-🛠️ Stack :
+🛠️ <u>Stack :</u>
   - Python, Airflow, PostgreSQL, SQL, FastAPI, Power BI, Prometheus, Grafana, Docker
 
-🔗 Liens :
+🔗 <u>Liens :</u>
   - [Github](https://github.com/vimchun/Job-Market-in-France/)
   - [Github Pages](https://vimchun.github.io/Job-Market-in-France/)
 
