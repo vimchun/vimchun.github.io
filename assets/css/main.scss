@@ -6,11 +6,13 @@ table { margin-bottom: 2em; }  /* espace après les tableaux */
 ul ul { margin-bottom: 2em; }  /* espace après les sous-listes */
 
 .smaller-text {
-  font-size: 0.1;
+  font-size: 0.1rem;
 }
 
 
 /*
 ul = une liste non ordonnée (<ul>)
 ul ul = un <ul> qui est à l’intérieur d’un autre <ul>
+
+https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/
 */
