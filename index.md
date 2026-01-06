@@ -108,11 +108,11 @@ header:
 
 # 📋 Centres d'intérêt
 
-<!-- <div style="margin-left: 2em;">  pour un meilleur alignement -->
+<div class="smaller-text">
 
 🥋 Arts martiaux (Wing Chun, Penchak Silat) <br> ️🏃🏻 Calisthénie <br> 🎸 Guitare électrique (autodidacte)
 
-<!-- </div> -->
+</div>
 
 ---
 
