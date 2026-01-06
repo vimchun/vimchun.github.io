@@ -65,27 +65,27 @@ Langues : Français (C2), Anglais (C1), Vietnamien (B1)
 
 **2025 : Formation Data Engineer** | DataScientest (400 heures)
 
-    | Domaine                  | Compétences                 |
-    | ------------------------ | --------------------------- |
-    | Outils avancés           | Linux, Bash, Git, Github    |
-    | Big Data Variété         | SQL, MongoDB                |
-    | Batch et Streaming       | PySpark                     |
-    | Cloud                    | AWS                         |
-    | Devops et virtualisation | FastAPI, Docker, Kubernetes |
-    | CI/CD                    | Airflow                     |
-    | Monitoring               | Prometheus, Grafana         |
+  | Domaine                  | Compétences                 |
+  | ------------------------ | --------------------------- |
+  | Outils avancés           | Linux, Bash, Git, Github    |
+  | Big Data Variété         | SQL, MongoDB                |
+  | Batch et Streaming       | PySpark                     |
+  | Cloud                    | AWS                         |
+  | Devops et virtualisation | FastAPI, Docker, Kubernetes |
+  | CI/CD                    | Airflow                     |
+  | Monitoring               | Prometheus, Grafana         |
 
 
 **2024 : Formation Data Analyst** | DataScientest (300 heures)
 
-    | Domaine                  | Compétences                        |
-    | ------------------------ | ---------------------------------- |
-    | Langage de programmation | Python, Numpy, Pandas              |
-    | Visualisation de données | Matplotlib, Seaborn, Plotly, Bokeh |
-    | Machine Learning         |                                    |
-    | Business Intelligence    | Power BI                           |
-    | Extraction de données    | Text Mining, Web Scrapping         |
-    | Base de données          | SQL                                |
+  | Domaine                  | Compétences                        |
+  | ------------------------ | ---------------------------------- |
+  | Langage de programmation | Python, Numpy, Pandas              |
+  | Visualisation de données | Matplotlib, Seaborn, Plotly, Bokeh |
+  | Machine Learning         |                                    |
+  | Business Intelligence    | Power BI                           |
+  | Extraction de données    | Text Mining, Web Scrapping         |
+  | Base de données          | SQL                                |
 
 
 **2009–2024 : Ingénieur QA (test et automatisation)** | Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)
