@@ -13,6 +13,15 @@ header:
 
 **Analyse des offres d’emploi de la data et de la tech en France**
 
+📹 <u>Slideshow :</u>
+
+  <div style="max-width: 400px; margin: 0 auto;">
+    <video controls muted style="width: 100%; height: auto;">
+      <source src="videos/project-DE-slideshow.mp4" type="video/mp4">
+    </video>
+  </div>
+
+
 🎯 <u>Résultats :</u>
 
 <div class="smaller-text">
