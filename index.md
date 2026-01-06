@@ -59,10 +59,10 @@ header:
 
 # 📘 Parcours
 
-<u>**2025 : Formation AWS Solutions Architect Associate (SAA-C03)**</u>, objectif certification en 2026 | *Udemy*
+**2025 : Formation AWS Solutions Architect Associate (SAA-C03)**, objectif certification en 2026 | *Udemy*
 
 
-<u>**2025 : Formation Data Engineer**</u> | *DataScientest (400 heures)*
+**2025 : Formation Data Engineer** | *DataScientest (400 heures)*
 
   | Domaine                  | Compétences                 |
   | ------------------------ | --------------------------- |
@@ -75,7 +75,7 @@ header:
   | Monitoring               | Prometheus, Grafana         |
 
 
-<u>**2024 : Formation Data Analyst**</u> | *DataScientest (300 heures)*
+**2024 : Formation Data Analyst** | *DataScientest (300 heures)*
 
   | Domaine                  | Compétences                        |
   | ------------------------ | ---------------------------------- |
@@ -87,7 +87,7 @@ header:
   | Base de données          | SQL                                |
 
 
-<u>**2009–2024 : Ingénieur QA (test et automatisation)**</u> | *Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)*
+**2009–2024 : Ingénieur QA (test et automatisation)** | *Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)*
 
 <div class="smaller-text">
 
