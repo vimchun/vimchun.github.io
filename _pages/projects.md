@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.7  # 0 (opaque) -> 1 (transparent)
 ---
 
-## 📊 Projet Data Engineer (2025)
+# 📊 Projet Data Engineer (2025)
 
 **Analyse des offres d’emploi de la data et de la tech en France**
 
@@ -36,25 +36,25 @@ header:
 
 ---
 
-## 📊 Projet Data Analyst (2024)
+# 📊 Projet Data Analyst (2024)
 
-  - Analyse et prédiction des délais d’intervention des brigades de pompiers de Londres
+**Analyse et prédiction des délais d’intervention des brigades de pompiers de Londres**
 
-  - 🎯 Résultats :
-    - Création de data viz à partir de données totalisant 4 millions de lignes et 60 colonnes
-    - Prédiction avec un modèle de classification et une précision de 70%
+🎯 <u>Résultats :</u>
+  - Création de data viz à partir de données totalisant 4 millions de lignes et 60 colonnes
+  - Prédiction avec un modèle de classification et une précision de 70%
 
-  - 📈 Exemples d’insights :
-    - Coûts liés aux fausses alertes
-    - Causes les plus fréquentes des retards
+📈 <u>Exemples d’insights :</u>
+  - Coûts liés aux fausses alertes
+  - Causes les plus fréquentes des retards
 
-  - 📝 Actions :
-    - Manipulation et préparation de la data, vérification de la qualité et la fiabilité des données
-    - Storytelling avec mise en œuvre de tableaux de bord décisionnels
-    - Features engineering et machine learning pour estimer les délais d’intervention
+📝 <u>Actions :</u>
+  - Manipulation et préparation de la data, vérification de la qualité et la fiabilité des données
+  - Storytelling avec mise en œuvre de tableaux de bord décisionnels
+  - Features engineering et machine learning pour estimer les délais d’intervention
 
-  - 🛠️ Stack :
-    - Python, Jupyter Notebook, Pandas, PySpark, Power BI, Scikit-learn
+🛠️ <u>Stack :</u>
+  - Python, Jupyter Notebook, Pandas, PySpark, Power BI, Scikit-learn
 
-  - 🔗 Liens :
-    - A venir
+🔗 <u>Liens :</u>
+  - A venir

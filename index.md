@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.7  # 0 (opaque) -> 1 (transparent)
 ---
 
-## 👩‍💻 À propos de moi
+# 👩‍💻 À propos de moi
 
 <!-- <div style="margin-left: 2em;">  pour un meilleur alignement -->
 
@@ -22,7 +22,7 @@ header:
 
 ---
 
-## 🛠️ Compétences
+# 🛠️ Compétences
 
 **Compétences techniques :**
 
@@ -57,7 +57,7 @@ header:
 
 ---
 
-## 📘 Parcours
+# 📘 Parcours
 
 <u>**2025 : Formation AWS Solutions Architect Associate (SAA-C03)**</u>, objectif certification en 2026 | *Udemy*
 
@@ -106,7 +106,7 @@ header:
 
 ---
 
-## 📋 Centres d'intérêt
+# 📋 Centres d'intérêt
 
 <!-- <div style="margin-left: 2em;">  pour un meilleur alignement -->
 
@@ -116,6 +116,6 @@ header:
 
 ---
 
-## 📫 Contacts
+# 📫 Contacts
 
 [Email](mailto:mhoang86@gmail.com) | [Linkedin](https://www.linkedin.com/in/minh-ha-hoang/) | [Github](https://github.com/vimchun/)
