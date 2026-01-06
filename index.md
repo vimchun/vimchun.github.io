@@ -43,17 +43,15 @@ header:
 
 **Compétences issues des expériences passées et transférables vers la Data :**
 
-<!-- <div style="margin-left: 2em;">  pour aligner le tableau -->
 
   | Domaine                        | Compétences                                                                                                                                                                                                                                                             |
   | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
   | Compétences <br> techniques    | • Automatisation, développement de scripts <br> • Environnement technique : Linux, Docker, Git, Jenkins, Kubernetes, AWS <br> • Détection d’anomalies et investigation                                                                                                  |
   | Compétences <br> transversales | • Méthode Agile, amélioration continue <br> • Collaboration et coordination inter-équipes <br> • Communication et qualité rédactionnelle <br> • Mise en place de métriques <br> • Rigueur, autonomie, force de proposition, esprit de synthèse <br> • Anglais technique |
 
-<!-- </div> -->
 
 
-**Langues :** Français (C2), Anglais (C1), Vietnamien (B1)
+**Langues :** <div class="smaller-text"> Français (C2), Anglais (C1), Vietnamien (B1) </div>
 
 ---
 
