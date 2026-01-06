@@ -118,4 +118,8 @@ header:
 
 # 📫 Contacts
 
+<div class="smaller-text">
+
 [Email](mailto:mhoang86@gmail.com) | [Linkedin](https://www.linkedin.com/in/minh-ha-hoang/) | [Github](https://github.com/vimchun/)
+
+</div>
