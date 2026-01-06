@@ -24,7 +24,7 @@ header:
 
 ## 🛠️ Compétences
 
-Compétences techniques :
+**Compétences techniques :**
 
 <!-- <div style="margin-left: 2em;">  pour aligner le tableau -->
 
@@ -41,7 +41,7 @@ Compétences techniques :
 <!-- </div> -->
 
 
-Compétences issues des expériences passées et transférables vers la Data :
+**Compétences issues des expériences passées et transférables vers la Data :**
 
 <!-- <div style="margin-left: 2em;">  pour aligner le tableau -->
 
@@ -53,17 +53,17 @@ Compétences issues des expériences passées et transférables vers la Data :
 <!-- </div> -->
 
 
-Langues : Français (C2), Anglais (C1), Vietnamien (B1)
+**Langues :** Français (C2), Anglais (C1), Vietnamien (B1)
 
 ---
 
 ## 📘 Parcours
 
-**2025 : Formation AWS Solutions Architect Associate (SAA-C03)** | Udemy
+**2025 : Formation AWS Solutions Architect Associate (SAA-C03)** | *Udemy*
   -	Objectif certification en 2026
 
 
-**2025 : Formation Data Engineer** | DataScientest (400 heures)
+**2025 : Formation Data Engineer** | *DataScientest (400 heures)*
 
   | Domaine                  | Compétences                 |
   | ------------------------ | --------------------------- |
@@ -76,7 +76,7 @@ Langues : Français (C2), Anglais (C1), Vietnamien (B1)
   | Monitoring               | Prometheus, Grafana         |
 
 
-**2024 : Formation Data Analyst** | DataScientest (300 heures)
+**2024 : Formation Data Analyst** | *DataScientest (300 heures)*
 
   | Domaine                  | Compétences                        |
   | ------------------------ | ---------------------------------- |
@@ -88,7 +88,7 @@ Langues : Français (C2), Anglais (C1), Vietnamien (B1)
   | Base de données          | SQL                                |
 
 
-**2009–2024 : Ingénieur QA (test et automatisation)** | Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)
+**2009–2024 : Ingénieur QA (test et automatisation)** | *Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)*
 
 - Automatisation de tests exécutés en intégration continue (CI), scripting : développement d’un analyseur de logs, récupération de métadonnées de la production et ingestion massive dans un catalogue VOD, certification Dolby Digital (25 minutes au lieu d’un jour)
   - 🛠️ Stack : Python, Bash, Robot Framework, Jenkins, AutoIt
