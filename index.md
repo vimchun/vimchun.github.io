@@ -59,8 +59,7 @@ header:
 
 ## 📘 Parcours
 
-**2025 : Formation AWS Solutions Architect Associate (SAA-C03)** | *Udemy*
-  -	Objectif certification en 2026
+<u>**2025 : Formation AWS Solutions Architect Associate (SAA-C03)**</u>, objectif certification en 2026 | *Udemy*
 
 
 **2025 : Formation Data Engineer** | *DataScientest (400 heures)*
