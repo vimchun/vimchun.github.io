@@ -10,23 +10,23 @@ header:
 
 ## 👩‍💻 À propos de moi
 
-<div style="margin-left: 2em;">  <!-- pour un meilleur alignement -->
+<!-- <div style="margin-left: 2em;">  pour un meilleur alignement -->
 
   *Ingénieur ISEP, fort de 18 ans d’expérience en validation logicielle et automatisation de tests, certifié **Data Engineer** et **Data Analyst** par les Mines de Paris.*
 
   *Je mets à profit cette double compétence pour garantir la qualité et la fiabilité des données, concevoir des pipelines ETL robustes et des dashboards BI pertinents, afin de transformer les données en décisions stratégiques.*
 
-  *Vous trouverez mes projets data [ici](https://vimchun.github.io/projects/).*
+  *Vous trouverez mes **projets data** [ici](https://vimchun.github.io/projects/).*
 
-</div>
+<!-- </div> -->
 
 ---
 
 ## 🛠️ Compétences
 
-  - Compétences techniques :
+Compétences techniques :
 
-<div style="margin-left: 2em;">  <!-- pour aligner le tableau -->
+<!-- <div style="margin-left: 2em;">  pour aligner le tableau -->
 
   | Domaine          | Compétences                               |
   | ---------------- | ----------------------------------------- |
@@ -38,10 +38,10 @@ header:
   | Monitoring       | Prometheus, Grafana                       |
   | Cloud            | AWS                                       |
 
-</div>
+<!-- </div> -->
 
 
-  - Compétences issues des expériences passées et transférables vers la Data :
+Compétences issues des expériences passées et transférables vers la Data :
 
 <!-- <div style="margin-left: 2em;">  pour aligner le tableau -->
 
@@ -53,18 +53,17 @@ header:
 <!-- </div> -->
 
 
-  - Langues : Français (C2), Anglais (C1), Vietnamien (B1)
-
+Langues : Français (C2), Anglais (C1), Vietnamien (B1)
 
 ---
 
 ## 📘 Parcours
 
-  - **2025 : Formation AWS Solutions Architect Associate (SAA-C03)** | Udemy
-    -	Objectif certification en 2026
+**2025 : Formation AWS Solutions Architect Associate (SAA-C03)** | Udemy
+  -	Objectif certification en 2026
 
 
-  - **2025 : Formation Data Engineer** | DataScientest (400 heures)
+**2025 : Formation Data Engineer** | DataScientest (400 heures)
 
     | Domaine                  | Compétences                 |
     | ------------------------ | --------------------------- |
@@ -77,7 +76,7 @@ header:
     | Monitoring               | Prometheus, Grafana         |
 
 
-  - **2024 : Formation Data Analyst** | DataScientest (300 heures)
+**2024 : Formation Data Analyst** | DataScientest (300 heures)
 
     | Domaine                  | Compétences                        |
     | ------------------------ | ---------------------------------- |
@@ -89,35 +88,35 @@ header:
     | Base de données          | SQL                                |
 
 
-  - **2009–2024 : Ingénieur QA (test et automatisation)** | Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)
+**2009–2024 : Ingénieur QA (test et automatisation)** | Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)
 
-    - Automatisation de tests exécutés en intégration continue (CI), scripting : développement d’un analyseur de logs, récupération de métadonnées de la production et ingestion massive dans un catalogue VOD, certification Dolby Digital (25 minutes au lieu d’un jour)
-      - 🛠️ Stack : Python, Bash, Robot Framework, Jenkins, AutoIt
+- Automatisation de tests exécutés en intégration continue (CI), scripting : développement d’un analyseur de logs, récupération de métadonnées de la production et ingestion massive dans un catalogue VOD, certification Dolby Digital (25 minutes au lieu d’un jour)
+  - 🛠️ Stack : Python, Bash, Robot Framework, Jenkins, AutoIt
 
-    - Exécution de tests et collaboration étroite avec les développeurs pour investiguer les bugs bloquants, administration de plateformes de tests multi-équipes
+- Exécution de tests et collaboration étroite avec les développeurs pour investiguer les bugs bloquants, administration de plateformes de tests multi-équipes
 
-    - Environnements multi-sites, et déplacements chez les clients à l’international : tests end-to-end, support, investigation des problèmes critiques
+- Environnements multi-sites, et déplacements chez les clients à l’international : tests end-to-end, support, investigation des problèmes critiques
 
-    - Référent technique et management d’une équipe de 3 testeurs, gestion de campagnes de tests mobilisant jusqu’à 12 testeurs / développeurs, suivi des métriques et reporting
-
-
-  - **2006-2009 : Ecole d'ingénieur ISEP**
+- Référent technique et management d’une équipe de 3 testeurs, gestion de campagnes de tests mobilisant jusqu’à 12 testeurs / développeurs, suivi des métriques et reporting
 
 
-  - **2004-2006 : Classes Préparatoires aux Grandes Ecoles (TSI)**
+**2006-2009 : Ecole d'ingénieur ISEP**
+
+
+**2004-2006 : Classes Préparatoires aux Grandes Ecoles (TSI)**
 
 ---
 
 ## 📋 Centres d'intérêt
 
-<div style="margin-left: 2em;">  <!-- pour un meilleur alignement -->
+<!-- <div style="margin-left: 2em;">  pour un meilleur alignement -->
 
   🥋 Arts martiaux (Wing Chun, Penchak Silat) <br> ️🏃‍♀️ Calisthénie <br> 🎸 Guitare électrique (autodidacte)
 
-</div>
+<!-- </div> -->
 
 ---
 
 ## 📫 Contacts
 
-  - [Email](mailto:mhoang86@gmail.com) | [Linkedin](https://www.linkedin.com/in/minh-ha-hoang/) | [Github](https://github.com/vimchun/)
+[Email](mailto:mhoang86@gmail.com) | [Linkedin](https://www.linkedin.com/in/minh-ha-hoang/) | [Github](https://github.com/vimchun/)
