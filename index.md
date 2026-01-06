@@ -62,7 +62,7 @@ header:
 <div class="smaller-text"> Objectif certification en 2026 </div>
 
 
-**2025 : Formation Data Engineer** | *DataScientest (400 heures)*
+**2025 : Formation Data Engineer** | <div class="smaller-text"> *DataScientest (400 heures)* </div>
 
   | Domaine                  | Compétences                 |
   | ------------------------ | --------------------------- |
