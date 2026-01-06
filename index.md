@@ -89,7 +89,7 @@ header:
 
 <u>**2009–2024 : Ingénieur QA (test et automatisation)**</u> | *Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)*
 
-<p style="font-size: 0.5rem;">
+<div class="smaller-text">
 
 - Automatisation de tests exécutés en intégration continue (CI), scripting : développement d’un analyseur de logs, récupération de métadonnées de la production et ingestion massive dans un catalogue VOD, certification Dolby Digital (25 minutes au lieu d’un jour) <br> 🛠️ Stack : Python, Bash, Robot Framework, Jenkins, AutoIt
 
@@ -99,7 +99,7 @@ header:
 
 - Référent technique et management d’une équipe de 3 testeurs, gestion de campagnes de tests mobilisant jusqu’à 12 testeurs / développeurs, suivi des métriques et reporting
 
-</p>
+</div>
 
 
 **2006-2009 : Ecole d'ingénieur ISEP**
