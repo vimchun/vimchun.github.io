@@ -2,16 +2,24 @@
 ---
 @import "minimal-mistakes";
 
-table { margin-bottom: 2em; }  /* espace après les tableaux */
-ul ul { margin-bottom: 2em; }  /* espace après les sous-listes */
+// table { margin-bottom: 2em; }  /* espace après les tableaux */
+// ul ul { margin-bottom: 2em; }  /* espace après les sous-listes */
 
-.smaller-text {
-  font-size: 0.8rem;   // 0.5rem => 2x plus petit
+// .smaller-text {
+//   font-size: 0.8rem;   // 0.5rem => 2x plus petit
+// }
+
+/* assets/css/main.scss */
+ul li, ol li {
+  font-size: 0.5em;  // 0.5em => 2x plus petit
 }
 
 
 /*
-ul = une liste non ordonnée (<ul>)
+ul — Unordered List (liste avec des puces)
+ol — Ordered List (liste avec des numéros (1., 2., 3.))
+li — List Item (élément de liste, ligne dans la liste → doit toujours être à l’intérieur d’un ul ou ol)
+
 ul ul = un <ul> qui est à l’intérieur d’un autre <ul>
 
 https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/
