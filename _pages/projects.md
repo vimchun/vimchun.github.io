@@ -13,7 +13,7 @@ header:
 
 **Analyse des offres d’emploi de la data et de la tech en France**
 
-📹 <u>Slideshow :</u>
+📹 <u>Slideshow</u>
 
   <div style="max-width: 400px; margin: 0 auto;">
     <video controls muted style="width: 100%; height: auto;">
@@ -22,7 +22,7 @@ header:
   </div>
 
 
-🎯 <u>Résultats :</u>
+🎯 <u>Résultats</u>
 
 <div class="smaller-text">
 
@@ -32,7 +32,7 @@ header:
 </div>
 
 
-📈 <u>Exemples d’insights :</u>
+📈 <u>Exemples d’insights</u>
 
 <div class="smaller-text">
 
@@ -42,7 +42,7 @@ header:
 </div>
 
 
-📝 <u>Actions :</u>
+📝 <u>Actions</u>
 
 <div class="smaller-text">
 
@@ -54,7 +54,7 @@ header:
 </div>
 
 
-🛠️ <u>Stack :</u>
+🛠️ <u>Stack</u>
 
 <div class="smaller-text">
 
@@ -63,7 +63,7 @@ header:
 </div>
 
 
-🔗 <u>Liens :</u>
+🔗 <u>Liens</u>
 
 <div class="smaller-text">
 
