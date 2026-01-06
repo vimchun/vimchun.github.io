@@ -78,7 +78,7 @@ header:
 
 **Analyse et prédiction des délais d’intervention des brigades de pompiers de Londres**
 
-🎯 <u>Résultats :</u>
+🎯 <u>Résultats</u>
 
 <div class="smaller-text">
 
@@ -88,7 +88,7 @@ header:
 </div>
 
 
-📈 <u>Exemples d’insights :</u>
+📈 <u>Exemples d’insights</u>
 
 <div class="smaller-text">
 
@@ -98,7 +98,7 @@ header:
 </div>
 
 
-📝 <u>Actions :</u>
+📝 <u>Actions</u>
 
 <div class="smaller-text">
 
@@ -109,7 +109,7 @@ header:
 </div>
 
 
-🛠️ <u>Stack :</u>
+🛠️ <u>Stack</u>
 
 <div class="smaller-text">
 
@@ -118,7 +118,7 @@ header:
 </div>
 
 
-🔗 <u>Liens :</u>
+🔗 <u>Liens</u>
 
 <div class="smaller-text">
 
