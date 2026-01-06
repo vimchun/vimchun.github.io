@@ -62,7 +62,7 @@ header:
 <u>**2025 : Formation AWS Solutions Architect Associate (SAA-C03)**</u>, objectif certification en 2026 | *Udemy*
 
 
-<u>**2025 : Formation Data Engineer**</u>| *DataScientest (400 heures)*
+<u>**2025 : Formation Data Engineer**</u> | *DataScientest (400 heures)*
 
   | Domaine                  | Compétences                 |
   | ------------------------ | --------------------------- |
@@ -75,7 +75,7 @@ header:
   | Monitoring               | Prometheus, Grafana         |
 
 
-<u>**2024 : Formation Data Analyst**</u>| *DataScientest (300 heures)*
+<u>**2024 : Formation Data Analyst**</u> | *DataScientest (300 heures)*
 
   | Domaine                  | Compétences                        |
   | ------------------------ | ---------------------------------- |
@@ -89,7 +89,7 @@ header:
 
 <u>**2009–2024 : Ingénieur QA (test et automatisation)**</u> | *Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)*
 
-<p style="font-size: 0.2rem;">
+<p style="font-size: 0.5rem;">
 
 - Automatisation de tests exécutés en intégration continue (CI), scripting : développement d’un analyseur de logs, récupération de métadonnées de la production et ingestion massive dans un catalogue VOD, certification Dolby Digital (25 minutes au lieu d’un jour) <br> 🛠️ Stack : Python, Bash, Robot Framework, Jenkins, AutoIt
 
@@ -98,6 +98,7 @@ header:
 - Environnements multi-sites, et déplacements chez les clients à l’international : tests end-to-end, support, investigation des problèmes critiques
 
 - Référent technique et management d’une équipe de 3 testeurs, gestion de campagnes de tests mobilisant jusqu’à 12 testeurs / développeurs, suivi des métriques et reporting
+
 </p>
 
 
