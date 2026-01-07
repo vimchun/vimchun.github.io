@@ -13,12 +13,6 @@ header:
 
 **Analyse des offres d’emploi de la data et de la tech en France**
 
-<a href="../images/projet_DE_airflow.png"
-   title="Mon texte affiché dans la lightbox">
-  <img src="../images/projet_DE_airflow.png"
-       alt="vignette"
-       width="200">
-</a>
 
 📹 <u>Slideshow</u>
 
@@ -27,6 +21,23 @@ header:
       <source src="/videos/project-DE-slideshow.mp4" type="video/mp4">
     </video>
   </div>
+
+  | Outils  | screenshots (appuyer pour mettre en plein écran)                                                                                                                                                                                                                                                   |
+  | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | Airflow | <a href="../images/projet_DE_airflow.png" title="Airflow : 2 DAGs pour l'ETL"> <img src="../images/projet_DE_airflow.png" alt="vignette" width="200"> </a>                                                                                                                                         |
+  | FastAPI | <a href="../images/projet_DE_fastapi.png" title="FastAPI"> <img src="../images/projet_DE_fastapi.png" alt="vignette" width="200"> </a>                                                                                                                                                             |
+  | Grafana | <a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_1.png" alt="vignette" width="200"> </a>  <a href="../images/projet_DE_monitoring_2.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_2.png" alt="vignette" width="200"> </a> |<a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_1.png" alt="vignette" width="200"> </a> |
+
+
+<!--
+  [<img src="../images/projet_DE_airflow.png" alt="vignette" width="200">](../images/projet_DE_airflow.png)
+  [<img src="../images/projet_DE_fastapi.png" alt="vignette" width="200">](../images/projet_DE_fastapi.png)
+  [<img src="../images/projet_DE_powerbi.png" alt="vignette" width="200">](../images/projet_DE_powerbi.png)
+  [<img src="../images/projet_DE_monitoring_1.png" alt="vignette" width="200">](../images/projet_DE_monitoring_1.png)
+  [<img src="../images/projet_DE_monitoring_2.png" alt="vignette" width="200">](../images/projet_DE_monitoring_2.png)
+  [<img src="../images/projet_DE_architecture.png" alt="vignette" width="200">](../images/projet_DE_architecture.png)
+ -->
+
 
 
 🎯 <u>Résultats</u>
@@ -55,7 +66,6 @@ header:
 
 - Pipeline ETL/ELT avec orchestration de tâches exécutés quotidiennement *[Airflow]* :
 
-  [<img src="../images/projet_DE_airflow.png" alt="vignette" width="200">](../images/projet_DE_airflow.png)
 
   <!-- [<img src="../images/projet_DE_airflow.png" alt="petite image" style="width:40%;">](../images/projet_DE_powerbi.png) -->
 
@@ -77,7 +87,6 @@ header:
 
 - Développement d’une API *[FastAPI]* :
 
-  [<img src="../images/projet_DE_fastapi.png" alt="vignette" width="200">](../images/projet_DE_fastapi.png)
 
   - Paramètres pour filtrer les offres d'emploi par leur localisation (région, département, ville), les offres d'emploi valides, et par les métiers de la data (Data Analyst, Data Engineer, Data Scientist)
   - Consultation des attributs d'une offre d'emploi par son identifiant
@@ -91,19 +100,16 @@ header:
 
 - Conception de dashboards BI *[PowerBI]* :
 
-  [<img src="../images/projet_DE_powerbi.png" alt="vignette" width="200">](../images/projet_DE_powerbi.png)
 
 
 - Mise en place d’un système de monitoring *[Grafana/Prometheus]* :
 
-  [<img src="../images/projet_DE_monitoring_1.png" alt="vignette" width="200">](../images/projet_DE_monitoring_1.png)  [<img src="../images/projet_DE_monitoring_2.png" alt="vignette" width="200">](../images/projet_DE_monitoring_2.png)
 
   - Supervision des métriques d'Airflow (statsd_exporter), du serveur (node_exporter), de la base de données (postgres_exporter) et des conteneurs (cadvisor)
 
 
 - Conteneurisation du projet avec Docker Compose *[Docker]* :
 
-  [<img src="../images/projet_DE_architecture.png" alt="vignette" width="200">](../images/projet_DE_architecture.png)
 
 
 
