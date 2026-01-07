@@ -1,0 +1,6 @@
+# bar en haut
+main:
+  - title: "Projets"
+    url: /projects/
+  - title: "À propos"
+    url: https://vimchun.github.io/

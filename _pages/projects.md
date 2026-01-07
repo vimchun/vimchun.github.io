@@ -1,0 +1,127 @@
+---
+title: "Projets"
+layout: single
+permalink: /projects/
+author_profile: true
+excerpt: "Projets fil rouge pendant mes formations"
+header:
+  overlay_image: /images/overlay_image.jpeg
+  overlay_filter: 0.6  # 0 (opaque) -> 1 (transparent)
+---
+
+# 📊 Projet Data Engineer (2025)
+
+**Analyse des offres d’emploi de la data et de la tech en France**
+
+📹 <u>Slideshow</u>
+
+  <div style="max-width: 400px; margin: 0 auto;">
+    <video controls muted style="width: 100%; height: auto;">
+      <source src="videos/project-DE-slideshow.mp4" type="video/mp4">
+    </video>
+  </div>
+
+
+🎯 <u>Résultats</u>
+
+<div class="smaller-text">
+
+  - Pipeline de données robuste exécuté quotidiennement
+  - 200k offres d’emploi agrégées en 10 mois
+
+</div>
+
+
+📈 <u>Exemples d’insights</u>
+
+<div class="smaller-text">
+
+  - Compétences et soft skills les plus demandés par les recruteurs
+  - Mots-clés les plus récurrents dans les offres d’emploi
+
+</div>
+
+
+📝 <u>Actions</u>
+
+<div class="smaller-text">
+
+  - Pipeline ETL avec orchestration de tâches : collecte des données par API (JSON) -> transformations des données -> stockage dans une base de données relationnelle
+  - Développement d’une API et conception de dashboards BI
+  - Mise en place d’un système de monitoring (serveur, base de données, conteneurs…)
+  - Conteneurisation du projet avec Docker Compose
+
+</div>
+
+
+🛠️ <u>Stack</u>
+
+<div class="smaller-text">
+
+  - Python, Airflow, PostgreSQL, SQL, FastAPI, Power BI, Prometheus, Grafana, Docker
+
+</div>
+
+
+🔗 <u>Liens</u>
+
+<div class="smaller-text">
+
+  - [Github](https://github.com/vimchun/Job-Market-in-France/)
+  - [Github Pages](https://vimchun.github.io/Job-Market-in-France/)
+
+</div>
+
+---
+
+# 📊 Projet Data Analyst (2024)
+
+**Analyse et prédiction des délais d’intervention des brigades de pompiers de Londres**
+
+🎯 <u>Résultats</u>
+
+<div class="smaller-text">
+
+  - Création de data viz à partir de données totalisant 4 millions de lignes et 60 colonnes
+  - Prédiction avec un modèle de classification et une précision de 70%
+
+</div>
+
+
+📈 <u>Exemples d’insights</u>
+
+<div class="smaller-text">
+
+  - Coûts liés aux fausses alertes
+  - Causes les plus fréquentes des retards
+
+</div>
+
+
+📝 <u>Actions</u>
+
+<div class="smaller-text">
+
+  - Manipulation et préparation de la data, vérification de la qualité et la fiabilité des données
+  - Storytelling avec mise en œuvre de tableaux de bord décisionnels
+  - Features engineering et machine learning pour estimer les délais d’intervention
+
+</div>
+
+
+🛠️ <u>Stack</u>
+
+<div class="smaller-text">
+
+  - Python, Jupyter Notebook, Pandas, PySpark, Power BI, Scikit-learn
+
+</div>
+
+
+🔗 <u>Liens</u>
+
+<div class="smaller-text">
+
+  - A venir
+
+</div>

@@ -1,0 +1,41 @@
+title: "HOANG Minh-Ha"
+description: "Data Engineer | Data Analyst"
+markdown: GFM
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Affiche la sidebar avec profil
+author:
+  name: "HOANG Minh-Ha"
+  avatar: "/images/avatar.png"
+  bio: "Data Engineer | Data Analyst"
+  location: "Versailles, FR"
+  email: "mhoang86@gmail.com"
+  github: "vimchun"
+  linkedin: "minh-ha-hoang"
+
+# Reading Files
+include:
+  - _pages
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single  # au lieu de "pages" pour ne pas avoir "Recents Posts" en bas de la page
+      author_profile: true
+      # read_time: true
+      # comments:  true
+      # share: true
+      # related: true
+
+
+search: false  # barre de recherche
+
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
