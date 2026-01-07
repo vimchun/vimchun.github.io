@@ -5,12 +5,12 @@ author_profile: true
 excerpt: "Data Engineer | Data Analyst"
 header:
   overlay_image: /images/overlay_image.jpeg
-  overlay_filter: 0.7  # 0 (opaque) -> 1 (transparent)
+  overlay_filter: 0.6  # 0 (opaque) -> 1 (transparent)
 ---
 
 # 👩‍💻 À propos de moi
 
-<!-- <div style="margin-left: 2em;">  pour un meilleur alignement -->
+<!-- <div style="margin-left: 2em;">  pour que le texte ait un alinéa -->
 
 <div class="smaller-text">
 
@@ -28,7 +28,7 @@ header:
 
 **Compétences techniques :**
 
-<!-- <div style="margin-left: 2em;">  pour aligner le tableau -->
+<!-- <div style="margin-left: 2em;">  pour que le tableau ait un alinéa -->
 
   | Domaine          | Compétences                               |
   | ---------------- | ----------------------------------------- |
@@ -48,7 +48,7 @@ header:
 
   | Domaine                        | Compétences                                                                                                                                                                                                                                                             |
   | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | Compétences <br> techniques    | • Automatisation, développement de scripts <br> • Environnement technique : Linux, Docker, Git, Jenkins, Kubernetes, AWS <br> • Détection d’anomalies et investigation                                                                                                  |
+  | Compétences <br> techniques    | • Automatisation, développement de scripts <br> • Travail dans un environnement technique : Linux, Docker, Git, Jenkins, Kubernetes, AWS <br> • Détection d’anomalies et investigation                                                                                  |
   | Compétences <br> transversales | • Méthode Agile, amélioration continue <br> • Collaboration et coordination inter-équipes <br> • Communication et qualité rédactionnelle <br> • Mise en place de métriques <br> • Rigueur, autonomie, force de proposition, esprit de synthèse <br> • Anglais technique |
 
 
@@ -98,6 +98,8 @@ header:
 - Environnements multi-sites, et déplacements chez les clients à l’international : tests end-to-end, support, investigation des problèmes critiques
 
 - Référent technique et management d’une équipe de 3 testeurs, gestion de campagnes de tests mobilisant jusqu’à 12 testeurs / développeurs, suivi des métriques et reporting
+
+- Certifié ISTQB Foundation Level (2012) et ISTQB Test Manager (2018)
 
 </div>
 
