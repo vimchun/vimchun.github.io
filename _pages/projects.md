@@ -46,13 +46,13 @@ header:
 
 <div class="smaller-text">
 
-- Pipeline ETL/ELT avec orchestration de tâches **[Airflow]** :
+- Pipeline ETL/ELT avec orchestration de tâches *[Airflow]* :
 
   - Collecte des offres d'emploi avec l'API de France Travail (JSON) :
     - Requêtes pour 60 métiers de la tech, dont ceux de la data
     - Parallélisation des requêtes avec gestion des erreurs 429 ("too much requests")
 
-  - Transformations des données avant stockage **[Python]** :
+  - Transformations des données avant stockage *[Python]* :
     - Conservation des offres d'emploi en France métropolitaine uniquement
     - Ajout des données de localisation des offres d'emploi (ville, département, région) à partir de données récupérées sur le site de l'Insee, parfois à partir des coordonnées gps (avec la librairie Python geopy)
 
