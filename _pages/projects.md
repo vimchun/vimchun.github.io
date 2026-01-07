@@ -90,6 +90,7 @@ header:
 - Mise en place d’un système de monitoring *[Grafana/Prometheus]* :
 
   [<img src="../images/projet_DE_monitoring_1.png" alt="vignette" width="200">](../images/projet_DE_monitoring_1.png)
+
   [<img src="../images/projet_DE_monitoring_2.png" alt="vignette" width="200">](../images/projet_DE_monitoring_2.png)
 
   - Supervision des métriques d'Airflow (statsd_exporter), du serveur (node_exporter), de la base de données (postgres_exporter) et des conteneurs (cadvisor)
