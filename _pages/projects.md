@@ -22,11 +22,34 @@ header:
     </video>
   </div>
 
-  |         | Screenshots (appuyer pour mettre en plein écran)                                                                                                                                                                                                                                                   |
-  | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | Airflow | <a href="../images/projet_DE_airflow.png" title="Airflow : 2 DAGs pour l'ETL"> <img src="../images/projet_DE_airflow.png" alt="vignette" height="50"> </a>                                                                                                                                         |
-  | FastAPI | <a href="../images/projet_DE_fastapi.png" title="FastAPI"> <img src="../images/projet_DE_fastapi.png" alt="vignette" height="100"> </a>                                                                                                                                                             |
-  | Grafana | <a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_1.png" alt="vignette" height="150"> </a>  <a href="../images/projet_DE_monitoring_2.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_2.png" alt="vignette" height="150"> </a> |<a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_1.png" alt="vignette" width="200"> </a>
+  |         | Screenshots (appuyer pour mettre en plein écran)                                                                                                                                                                                                                                                     |
+  | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | Airflow | <a href="../images/projet_DE/airflow.png" title="Airflow : 2 DAGs pour l'ETL"> <img src="../images/projet_DE/airflow.png" alt="vignette" height="50"> </a>                                                                                                                                           |
+  | FastAPI | <a href="../images/projet_DE/fastapi.png" title="FastAPI"> <img src="../images/projet_DE/fastapi.png" alt="vignette" height="100"> </a>                                                                                                                                                              |
+  | Grafana | <a href="../images/projet_DE/monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE/monitoring_1.png" alt="vignette" height="150"> </a>  <a href="../images/projet_DE/monitoring_2.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_2.png" alt="vignette" height="150"> </a> |<a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet/DE_monitoring_1.png" alt="vignette" heigth="200"> </a>
+
+
+autre solution :
+
+<table>
+  <tr>
+    <td><strong>Airflow</strong><br>Description rapide</td>
+    <td>
+      <a href="../images/projet_DE/airflow.png" title="Airflow : zoom & infos">
+        <img src="../images/projet_DE/airflow.png" alt="Airflow screenshot" height="100">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>fastapi</strong><br>Tableaux de bord</td>
+    <td>
+      <a href="../images/projet_DE/fastapi.png" title="Grafana : dashboards">
+        <img src="../images/projet_DE/fastapi.png" alt="Grafana screenshot" height="100">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 <!--
