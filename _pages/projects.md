@@ -56,20 +56,20 @@ header:
     - Conservation des offres d'emploi en France métropolitaine uniquement
     - Ajout des données de localisation des offres d'emploi (ville, département, région) à partir de données récupérées sur le site de l'Insee, parfois à partir des coordonnées gps (avec la librairie Python geopy)
 
-  - Stockage dans une base de données relationnelle **[PostgreSQL]**, avec une modélisation en flocon de neige
+  - Stockage dans une base de données relationnelle *[PostgreSQL]*, avec une modélisation en flocon de neige
 
-  - Transformations des données après stockage **[SQL]** :
+  - Transformations des données après stockage *[SQL]* :
     - Ajout d'un attribut pour préciser si l'offre d'emploi est pour un DA, un DE ou un DS
     - Ajout d'un attribut pour si l'offre d'emploi contient des mots-clés prédéfinis
 
-- Développement d’une API **[FastAPI]**
+- Développement d’une API *[FastAPI]*
 
-- Conception de dashboards BI **[PowerBI]**
+- Conception de dashboards BI *[PowerBI]*
 
-- Mise en place d’un système de monitoring **[Grafana/Prometheus]** :
+- Mise en place d’un système de monitoring *[Grafana/Prometheus]* :
   - Supervision des métriques d'Airflow (statsd_exporter), du serveur (node_exporter), de la base de données (postgres_exporter) et des conteneurs (cadvisor)
 
-- Conteneurisation du projet avec Docker Compose **[Docker]**
+- Conteneurisation du projet avec Docker Compose *[Docker]*
 
 
 </div>
