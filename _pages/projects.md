@@ -22,11 +22,11 @@ header:
     </video>
   </div>
 
-  | Outils  | screenshots (appuyer pour mettre en plein écran)                                                                                                                                                                                                                                                   |
+  |         | Screenshots (appuyer pour mettre en plein écran)                                                                                                                                                                                                                                                   |
   | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
   | Airflow | <a href="../images/projet_DE_airflow.png" title="Airflow : 2 DAGs pour l'ETL"> <img src="../images/projet_DE_airflow.png" alt="vignette" width="200"> </a>                                                                                                                                         |
   | FastAPI | <a href="../images/projet_DE_fastapi.png" title="FastAPI"> <img src="../images/projet_DE_fastapi.png" alt="vignette" width="200"> </a>                                                                                                                                                             |
-  | Grafana | <a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_1.png" alt="vignette" width="200"> </a>  <a href="../images/projet_DE_monitoring_2.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_2.png" alt="vignette" width="200"> </a> |<a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_1.png" alt="vignette" width="200"> </a> |
+  | Grafana | <a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_1.png" alt="vignette" width="200"> </a>  <a href="../images/projet_DE_monitoring_2.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_2.png" alt="vignette" width="200"> </a> |<a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_1.png" alt="vignette" width="200"> </a>
 
 
 <!--
