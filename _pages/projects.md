@@ -22,9 +22,11 @@ header:
     </video>
   </div>
 
+<!--
   | Airflow |
   | FastAPI |
   | Grafana | <a href="../images/projet_DE/monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE/monitoring_1.png" alt="vignette" height="150"> </a>  <a href="../images/projet_DE/monitoring_2.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_2.png" alt="vignette" height="150"> </a> |<a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet/DE_monitoring_1.png" alt="vignette" heigth="200"> </a>
+ -->
 
 
 autre solution :
@@ -33,8 +35,8 @@ autre solution :
   <tr>
     <td>Airflow</td>
     <td>
-      <a href="../images/projet_DE/airflow.png" title="Airflow : 2 DAGs pour l'ETL">
-        <img src="../images/projet_DE/airflow.png" alt="vignette" height="5">
+      <a href="../images/projet_DE/airflow.png" class="image-popup" title="Airflow : 2 DAGs pour l'ETL">
+        <img src="../images/projet_DE/airflow.png" alt="vignette" height="100">
       </a>
     </td>
   </tr>
@@ -42,7 +44,15 @@ autre solution :
     <td>FastAPI</td>
     <td>
       <a href="../images/projet_DE/fastapi.png" title="FastAPI">
-        <img src="../images/projet_DE/fastapi.png" alt="vignette" height="10">
+        <img src="../images/projet_DE/fastapi.png" alt="vignette" height="10px">
+      </a>                                                                                                                                                              |
+    </td>
+  </tr>
+  <tr>
+    <td>Power BI</td>
+    <td>
+      <a href="../images/projet_DE/powerbi_4.png" title="Power BI">
+        <img src="../images/projet_DE/powerbi_4.png" alt="vignette" height="15">
       </a>                                                                                                                                                              |
     </td>
   </tr>
