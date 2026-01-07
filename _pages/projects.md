@@ -25,13 +25,15 @@ header:
 <!--
   | Airflow |
   | FastAPI |
-  | Grafana | <a href="../images/projet_DE/monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE/monitoring_1.png" alt="vignette" height="150"> </a>  <a href="../images/projet_DE/monitoring_2.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_2.png" alt="vignette" height="150"> </a> |<a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet/DE_monitoring_1.png" alt="vignette" heigth="200"> </a>
+  | Grafana |
  -->
 
 
 autre solution :
 
 <table>
+
+
   <tr>
     <td>Airflow</td>
     <td>
@@ -40,6 +42,8 @@ autre solution :
       </a>
     </td>
   </tr>
+
+
   <tr>
     <td>FastAPI</td>
     <td>
@@ -48,14 +52,34 @@ autre solution :
       </a>                                                                                                                                                              |
     </td>
   </tr>
+
+
   <tr>
     <td>Power BI</td>
     <td>
       <a href="../images/projet_DE/powerbi_4.png" title="Power BI">
-        <img src="../images/projet_DE/powerbi_4.png" alt="vignette" height="15">
+        <img src="../images/projet_DE/powerbi_4.png" alt="vignette" height="1">
       </a>                                                                                                                                                              |
     </td>
   </tr>
+
+
+  <tr>
+    <td>Grafana</td>
+    <td>
+      <a href="../images/projet_DE/monitoring_1.png" title="Grafana">
+        <img src="../images/projet_DE/monitoring_1.png" alt="vignette" height="2">
+      </a>                                                                                                                                                              |
+      <a href="../images/projet_DE/monitoring_2.png" title="Grafana">
+        <img src="../images/projet_DE/monitoring_2.png" alt="vignette" height="15">
+      </a>                                                                                                                                                              |
+    </td>
+  </tr>
+
+
+
+
+
   <tr>
     <td>Architecture</td>
     <td>
@@ -74,10 +98,12 @@ todo :
   [<img src="../images/projet_DE_monitoring_1.png" alt="vignette" width="200">](../images/projet_DE_monitoring_1.png)
   [<img src="../images/projet_DE_monitoring_2.png" alt="vignette" width="200">](../images/projet_DE_monitoring_2.png)
 
+
 done :
   [<img src="../images/projet_DE_airflow.png" alt="vignette" width="200">](../images/projet_DE_airflow.png)
   [<img src="../images/projet_DE_fastapi.png" alt="vignette" width="200">](../images/projet_DE_fastapi.png)
   [<img src="../images/projet_DE_architecture.png" alt="vignette" width="200">](../images/projet_DE_architecture.png)
+  <a href="../images/projet_DE/monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE/monitoring_1.png" alt="vignette" height="150"> </a>  <a href="../images/projet_DE/monitoring_2.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_2.png" alt="vignette" height="150"> </a> |<a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet/DE_monitoring_1.png" alt="vignette" heigth="200"> </a>
  -->
 
 
