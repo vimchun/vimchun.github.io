@@ -5,7 +5,7 @@ author_profile: true
 excerpt: "Data Engineer | Data Analyst"
 header:
   overlay_image: /images/overlay_image.jpeg
-  overlay_filter: 0.6  # 0 (opaque) -> 1 (transparent)
+  overlay_filter: 0.7  # 0 (opaque) -> 1 (transparent)
 ---
 
 # 👩‍💻 À propos de moi

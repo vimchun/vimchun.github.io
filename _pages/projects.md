@@ -6,7 +6,7 @@ author_profile: true
 excerpt: "Projets fil rouge pendant mes formations"
 header:
   overlay_image: /images/overlay_image.jpeg
-  overlay_filter: 0.6  # 0 (opaque) -> 1 (transparent)
+  overlay_filter: 0.7  # 0 (opaque) -> 1 (transparent)
 ---
 
 # 📊 Projet Data Engineer (2025)
