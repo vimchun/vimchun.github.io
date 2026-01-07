@@ -48,7 +48,7 @@ autre solution :
     <td>FastAPI</td>
     <td>
       <a href="../images/projet_DE/fastapi.png" title="FastAPI">
-        <img src="../images/projet_DE/fastapi.png" alt="vignette" height="10px">
+        <img src="../images/projet_DE/fastapi.png" alt="vignette" height="100">
       </a>                                                                                                                                                              |
     </td>
   </tr>
