@@ -14,7 +14,7 @@ header:
 **Analyse des offres d’emploi de la data et de la tech en France**
 
 {% include figure
-   image_path="/assets/images/projet_DE_airflow.png"
+   image_path="../images/projet_DE_airflow.png"
    alt="Description"
    caption="Mon titre / texte affiché dans la lightbox"
    popup=true
