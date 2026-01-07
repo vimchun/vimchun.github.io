@@ -48,6 +48,10 @@ header:
 
 - Pipeline ETL/ELT avec orchestration de tâches exécutés quotidiennement *[Airflow]* :
 
+  [<img src="../images/projet_DE_airflow.png" alt="vignette" width="200">](../images/projet_DE_airflow.png)
+
+  <!-- [<img src="../images/projet_DE_airflow.png" alt="petite image" style="width:40%;">](../images/projet_DE_powerbi.png) -->
+
   - Collecte des offres d'emploi avec l'API de France Travail (JSON) :
     - Requêtes pour 60 métiers de la tech, dont ceux de la data
     - Parallélisation des requêtes avec gestion des erreurs 429 ("too much requests")
@@ -62,18 +66,11 @@ header:
     - Ajout d'un attribut pour préciser si l'offre d'emploi est pour un DA, un DE ou un DS
     - Ajout d'un attribut pour si l'offre d'emploi contient des mots-clés prédéfinis
 
-      test a :
-      [![](../images/projet_DE_airflow.png)](../images/projet_DE_powerbi.png)
-
-      test b :
-      [<img src="../images/projet_DE_airflow.png" alt="petite image" width="200">](../images/projet_DE_powerbi.png)
-
-      test c :
-      [<img src="../images/projet_DE_airflow.png" alt="petite image" style="width:40%;">](../images/projet_DE_powerbi.png)
-
 
 
 - Développement d’une API *[FastAPI]* :
+
+  [<img src="../images/projet_DE_fastapi.png" alt="vignette" width="200">](../images/projet_DE_fastapi.png)
 
   - Paramètres pour filtrer les offres d'emploi par leur localisation (région, département, ville), les offres d'emploi valides, et par les métiers de la data (Data Analyst, Data Engineer, Data Scientist)
   - Consultation des attributs d'une offre d'emploi par son identifiant
@@ -85,14 +82,22 @@ header:
     - la qualité professionnelle la plus demandée : "Faire preuve d'autonomie"
 
 
-- Conception de dashboards BI *[PowerBI]*
+- Conception de dashboards BI *[PowerBI]* :
+
+  [<img src="../images/projet_DE_powerbi.png" alt="vignette" width="200">](../images/projet_DE_powerbi.png)
+
 
 - Mise en place d’un système de monitoring *[Grafana/Prometheus]* :
+
+  [<img src="../images/projet_DE_monitoring.png" alt="vignette" width="200">](../images/projet_DE_monitoring.png)
 
   - Supervision des métriques d'Airflow (statsd_exporter), du serveur (node_exporter), de la base de données (postgres_exporter) et des conteneurs (cadvisor)
 
 
-- Conteneurisation du projet avec Docker Compose *[Docker]*
+- Conteneurisation du projet avec Docker Compose *[Docker]* :
+
+  [<img src="../images/projet_DE_architecture.png" alt="vignette" width="200">](../images/projet_DE_architecture.png)
+
 
 
 
