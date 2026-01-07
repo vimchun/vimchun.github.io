@@ -62,7 +62,14 @@ header:
     - Ajout d'un attribut pour préciser si l'offre d'emploi est pour un DA, un DE ou un DS
     - Ajout d'un attribut pour si l'offre d'emploi contient des mots-clés prédéfinis
 
-[![](../images/projet_DE_airflow.png)](../images/projet_DE_powerbi.png)
+      test a :
+      [![](../images/projet_DE_airflow.png)](../images/projet_DE_powerbi.png)
+
+      test b :
+      [<img src="../images/projet_DE_airflow.png" alt="petite image" width="200">](../images/projet_DE_powerbi.png)
+
+      test c :
+      [<img src="../images/projet_DE_airflow.png" alt="petite image" style="width:40%;">](../images/projet_DE_powerbi.png)
 
 
 
