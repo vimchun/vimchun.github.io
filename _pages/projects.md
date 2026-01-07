@@ -46,10 +46,31 @@ header:
 
 <div class="smaller-text">
 
-  - Pipeline ETL avec orchestration de tâches : collecte des données par API (JSON) -> transformations des données -> stockage dans une base de données relationnelle
-  - Développement d’une API et conception de dashboards BI
-  - Mise en place d’un système de monitoring (serveur, base de données, conteneurs…)
-  - Conteneurisation du projet avec Docker Compose
+- Pipeline ETL/ELT avec orchestration de tâches **[Airflow]** :
+
+  - Collecte des offres d'emploi avec l'API de France Travail (JSON) :
+    - Requêtes pour 60 métiers de la tech, dont ceux de la data
+    - Parallélisation des requêtes avec gestion des erreurs 429 ("too much requests")
+
+  - Transformations des données avant stockage **[Python]** :
+    - Conservation des offres d'emploi en France métropolitaine uniquement
+    - Ajout des données de localisation des offres d'emploi (ville, département, région) à partir de données récupérées sur le site de l'Insee, parfois à partir des coordonnées gps (avec la librairie Python geopy)
+
+  - Stockage dans une base de données relationnelle **[PostgreSQL]**, avec une modélisation en flocon de neige
+
+  - Transformations des données après stockage **[SQL]** :
+    - Ajout d'un attribut pour préciser si l'offre d'emploi est pour un DA, un DE ou un DS
+    - Ajout d'un attribut pour si l'offre d'emploi contient des mots-clés prédéfinis
+
+- Développement d’une API **[FastAPI]**
+
+- Conception de dashboards BI **[PowerBI]**
+
+- Mise en place d’un système de monitoring **[Grafana/Prometheus]** :
+  - Supervision des métriques d'Airflow (statsd_exporter), du serveur (node_exporter), de la base de données (postgres_exporter) et des conteneurs (cadvisor)
+
+- Conteneurisation du projet avec Docker Compose **[Docker]**
+
 
 </div>
 
