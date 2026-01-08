@@ -97,36 +97,6 @@ header:
 
 
 
-
-
-  <tr>
-    <td>Architecture</td>
-    <td>
-      <a href="../images/projet_DE/architecture.png" title="Architecture">
-        <img src="../images/projet_DE/architecture.png" alt="vignette" height="15">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-<!--
-todo :
-  [<img src="../images/projet_DE_powerbi.png" alt="vignette" width="200">](../images/projet_DE_powerbi.png)
-  [<img src="../images/projet_DE_monitoring_1.png" alt="vignette" width="200">](../images/projet_DE_monitoring_1.png)
-  [<img src="../images/projet_DE_monitoring_2.png" alt="vignette" width="200">](../images/projet_DE_monitoring_2.png)
-
-
-done :
-  [<img src="../images/projet_DE_airflow.png" alt="vignette" width="200">](../images/projet_DE_airflow.png)
-  [<img src="../images/projet_DE_fastapi.png" alt="vignette" width="200">](../images/projet_DE_fastapi.png)
-  [<img src="../images/projet_DE_architecture.png" alt="vignette" width="200">](../images/projet_DE_architecture.png)
-  <a href="../images/projet_DE/monitoring_1.png" title="FastAPI"> <img src="../images/projet_DE/monitoring_1.png" alt="vignette" height="150"> </a>  <a href="../images/projet_DE/monitoring_2.png" title="FastAPI"> <img src="../images/projet_DE_monitoring_2.png" alt="vignette" height="150"> </a> |<a href="../images/projet_DE_monitoring_1.png" title="FastAPI"> <img src="../images/projet/DE_monitoring_1.png" alt="vignette" heigth="200"> </a>
- -->
-
-
-
 🎯 <u>Résultats</u>
 
 <div class="smaller-text">
@@ -153,9 +123,6 @@ done :
 
 - Pipeline ETL/ELT avec orchestration de tâches exécutés quotidiennement *[Airflow]* :
 
-
-  <!-- [<img src="../images/projet_DE_airflow.png" alt="petite image" style="width:40%;">](../images/projet_DE_powerbi.png) -->
-
   - Collecte des offres d'emploi avec l'API de France Travail (JSON) :
     - Requêtes pour 60 métiers de la tech, dont ceux de la data
     - Parallélisation des requêtes avec gestion des erreurs 429 ("too much requests")
@@ -176,7 +143,6 @@ done :
 
 - Développement d’une API *[FastAPI]* :
 
-
   - Paramètres pour filtrer les offres d'emploi par leur localisation (région, département, ville), les offres d'emploi valides, et par les métiers de la data (Data Analyst, Data Engineer, Data Scientist)
   - Consultation des attributs d'une offre d'emploi par son identifiant
   - Voir les offres les plus récentes
@@ -187,20 +153,17 @@ done :
     - la qualité professionnelle la plus demandée : "Faire preuve d'autonomie"
 
 
-- Conception de dashboards BI *[PowerBI]* :
+- Conception de dashboards BI *[PowerBI]*
 
 
 
 - Mise en place d’un système de monitoring *[Grafana/Prometheus]* :
 
 
-  - Supervision des métriques d'Airflow (statsd_exporter), du serveur (node_exporter), de la base de données (postgres_exporter) et des conteneurs (cadvisor)
+  - Supervision des métriques d'Airflow (statsd_exporter), de la machine hôte (node_exporter), de la base de données (postgres_exporter) et des conteneurs (cadvisor)
 
 
-- Conteneurisation du projet avec Docker Compose *[Docker]* :
-
-
-
+- Conteneurisation du projet avec Docker Compose *[Docker]*
 
 
 </div>
