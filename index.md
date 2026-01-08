@@ -178,23 +178,6 @@ header:
 
 
 
-**2009–2024 : Ingénieur QA (test et automatisation)** | <span class="smaller-text"> *Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)* </span>
-
-<div class="smaller-text">
-
-- Automatisation de tests exécutés en intégration continue (CI), scripting : développement d’un analyseur de logs, récupération de métadonnées de la production et ingestion massive dans un catalogue VOD, certification Dolby Digital (25 minutes au lieu d’un jour) <br> 🛠️ Stack : Python, Bash, Robot Framework, Jenkins, AutoIt
-
-- Exécution de tests et collaboration étroite avec les développeurs pour investiguer les bugs bloquants, administration de plateformes de tests multi-équipes
-
-- Environnements multi-sites, et déplacements chez les clients à l’international : tests end-to-end, support, investigation des problèmes critiques
-
-- Référent technique et management d’une équipe de 3 testeurs, gestion de campagnes de tests mobilisant jusqu’à 12 testeurs / développeurs, suivi des métriques et reporting
-
-- Certifié ISTQB Foundation Level (2012) et ISTQB Test Manager (2018)
-
-</div>
-
-
 
 **2009–2024 : Ingénieur QA (test et automatisation)** | <span class="smaller-text"> *Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)* </span>
 
@@ -239,6 +222,8 @@ header:
 
 🥋 Arts martiaux (Wing Chun, Penchak Silat) <br> ️🏃🏻 Calisthénie <br> 🎸 Guitare électrique (autodidacte)
 
+</div>
+
 
 # 📋 Centres d'intérêt
 
@@ -262,7 +247,6 @@ header:
 
 
 
-</div>
 
 ---
 
