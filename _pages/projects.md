@@ -37,20 +37,17 @@ autre solution :
   <tr>
     <td>Airflow</td>
     <td>
-      <!-- <a href="../images/projet_DE/airflow.png" class="image-popup" title="Airflow : 2 DAGs pour l'ETL"> -->
-      <a href="../images/projet_DE/airflow.png" title="Airflow : 2 DAGs pour l'ETL">
-        <!-- <img src="../images/projet_DE/airflow.png" alt="vignette" height="100"> -->
-        <img src="../images/projet_DE/airflow.png" alt="vignette" style="height: 100px; width: auto;">
+      <a href="../images/projet_DE/airflow.png" title="Airflow : 2 DAGs pour l'ETL">   <!-- title = "lightbox" -->
+        <img src="../images/projet_DE/airflow.png" alt="vignette" style="height: 50px; width: auto;">
       </a>
     </td>
   </tr>
-
 
   <tr>
     <td>FastAPI</td>
     <td>
       <a href="../images/projet_DE/fastapi.png" class="image-popup" title="FastAPI">
-        <img src="../images/projet_DE/fastapi.png" alt="vignette" height="100">
+        <img src="../images/projet_DE/fastapi.png" alt="vignette" style="height: 100; width: auto;">
       </a>
     </td>
   </tr>
@@ -60,7 +57,7 @@ autre solution :
     <td>Power BI</td>
     <td>
       <a href="../images/projet_DE/powerbi_4.png" class="image-popup" title="Power BI">
-        <img src="../images/projet_DE/powerbi_4.png" alt="vignette" height="1">
+        <img src="../images/projet_DE/powerbi_4.png" alt="vignette" style="height: 100px; width: auto;">
       </a>
     </td>
   </tr>
