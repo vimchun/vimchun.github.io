@@ -48,7 +48,7 @@ header:
     </td>
   </tr>
 
-  <!-- <tr>
+  <tr>
     <td>Power BI</td>
     <td>
       <a href="../images/projet_DE/powerbi_1.png" class="image-popup" title="Power BI : top 10 des qualifications professionnelles et qualifications">
@@ -67,16 +67,16 @@ header:
     <td>Grafana</td>
     <td>
       <a href="../images/projet_DE/monitoring_1.png" title="Grafana : en jaune le DAG 1, en bleu le DAG 2 (GUI d'Airflow)">
-        <img src="../images/projet_DE/monitoring_1.png" alt="vignette" style="width: 85px; border: 1px solid black;">
+        <img src="../images/projet_DE/monitoring_1.png" alt="vignette" style="width: 90px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/monitoring_2.png" title="Grafana (cAdvisor) : affichage de la consommation CPU et mémoire des conteneurs docker">
-        <img src="../images/projet_DE/monitoring_2.png" alt="vignette" style="width: 85px; border: 1px solid black;">
+        <img src="../images/projet_DE/monitoring_2.png" alt="vignette" style="width: 90px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/monitoring_3.png" title="Grafana (node-exporter) : affichage de la consommation CPU, mémoire, réseau et disque de la machine hôte">
-        <img src="../images/projet_DE/monitoring_3.png" alt="vignette" style="width: 85px; border: 1px solid black;">
+        <img src="../images/projet_DE/monitoring_3.png" alt="vignette" style="width: 90px; border: 1px solid black;">
       </a>
     </td>
-  </tr> -->
+  </tr>
 
   <tr>
     <td>Architecture</td>
@@ -87,6 +87,7 @@ header:
     </td>
   </tr>
 
+</table>
 
 
 🎯 <u>Résultats</u>
