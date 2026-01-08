@@ -60,13 +60,13 @@ header:
     <td>Power BI</td>
     <td>
       <a href="../images/projet_DE/powerbi_1.png" class="image-popup" title="Power BI : top 10 des qualifications professionnelles et qualifications">
-        <img src="../images/projet_DE/powerbi_1.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+        <img src="../images/projet_DE/powerbi_1.png" alt="vignette" style="width: 90px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/powerbi_2.png" class="image-popup" title="Power BI : localisation des offres grâce aux transformations de l'ETL">
-        <img src="../images/projet_DE/powerbi_2.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+        <img src="../images/projet_DE/powerbi_2.png" alt="vignette" style="width: 90px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/powerbi_2.png" class="image-popup" title="Power BI : comptage des mots-clés apparaissant le plus souvent dans les offres d'emploi">
-        <img src="../images/projet_DE/powerbi_2.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+        <img src="../images/projet_DE/powerbi_2.png" alt="vignette" style="width: 90px; border: 1px solid black;">
       </a>
     </td>
   </tr>
@@ -75,13 +75,13 @@ header:
     <td>Grafana</td>
     <td>
       <a href="../images/projet_DE/monitoring_1.png" title="Grafana : en jaune le DAG 1, en bleu le DAG 2 (vue sur Airflow)">
-        <img src="../images/projet_DE/monitoring_1.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+        <img src="../images/projet_DE/monitoring_1.png" alt="vignette" style="width: 100px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/monitoring_2.png" title="Grafana (cAdvisor) : affichage de la consommation CPU et mémoire des conteneurs docker">
-        <img src="../images/projet_DE/monitoring_2.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+        <img src="../images/projet_DE/monitoring_2.png" alt="vignette" style="width: 100px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/monitoring_3.png" title="Grafana (node-exporter) : affichage de la consommation CPU, mémoire, réseau et disque de la machine hôte">
-        <img src="../images/projet_DE/monitoring_3.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+        <img src="../images/projet_DE/monitoring_3.png" alt="vignette" style="width: 100px; border: 1px solid black;">
       </a>
     </td>
   </tr>
