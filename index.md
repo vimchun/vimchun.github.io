@@ -202,6 +202,40 @@ header:
 </div>
 
 
+
+**2009–2024 : Ingénieur QA (test et automatisation)** | <span class="smaller-text"> *Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)* </span>
+
+<table>
+  <tr>
+    <td>
+      • Automatisation de tests exécutés en intégration continue (CI), scripting : développement d’un analyseur de logs, récupération de métadonnées de la production et ingestion massive dans un catalogue VOD, certification Dolby Digital (25 minutes au lieu d’un jour) <br>
+      🛠️ Stack : Python, Bash, Robot Framework, Jenkins, AutoIt
+    </td>
+  </tr>
+  <tr>
+    <td>
+      • Exécution de tests et collaboration étroite avec les développeurs pour investiguer les bugs bloquants, administration de plateformes de tests multi‑équipes
+    </td>
+  </tr>
+  <tr>
+    <td>
+      • Environnements multi‑sites, et déplacements chez les clients à l’international : tests end‑to‑end, support, investigation des problèmes critiques
+    </td>
+  </tr>
+  <tr>
+    <td>
+      • Référent technique et management d’une équipe de 3 testeurs, gestion de campagnes de tests mobilisant jusqu’à 12 testeurs / développeurs, suivi des métriques et reporting
+    </td>
+  </tr>
+  <tr>
+    <td>
+      • Certifié ISTQB Foundation Level (2012) et ISTQB Test Manager (2018)
+    </td>
+  </tr>
+</table>
+
+
+
 **2006-2009 : Ecole d'ingénieur ISEP**
 
 ---
