@@ -32,19 +32,29 @@ header:
   <tr>
     <td>Airflow</td>
     <td>
-      <a href="../images/projet_DE/airflow.png" title="Airflow : 2 DAGs pour l'ETL">   <!-- title = "lightbox" -->
+      <a href="../images/projet_DE/airflow_1.png" title="Airflow : 2 DAGs pour l'ETL">   <!-- title = "lightbox" -->
         <!-- <img src="../images/projet_DE/airflow.png" alt="vignette" style="height: 50px; width: auto; border: 2px solid black;"> -->
-        <img src="../images/projet_DE/airflow.png" alt="vignette" style="width: 80px; border: 2px solid black;">
+        <img src="../images/projet_DE/airflow_1.png" alt="vignette" style="width: 80px; border: 1px solid black;">
       </a>
+      <a href="../images/projet_DE/airflow_2.png" title="Airflow 3.0">   <!-- title = "lightbox" -->
+        <!-- <img src="../images/projet_DE/airflow.png" alt="vignette" style="height: 50px; width: auto; border: 2px solid black;"> -->
+        <img src="../images/projet_DE/airflow_2.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+      </a>
+
     </td>
   </tr>
 
   <tr>
     <td>FastAPI</td>
     <td>
-      <a href="../images/projet_DE/fastapi.png" class="image-popup" title="FastAPI">
-        <!-- <img src="../images/projet_DE/fastapi.png" alt="vignette" style="height: 60px; width: auto;"> -->
-        <img src="../images/projet_DE/fastapi.png" alt="vignette" style="width: 80px; border: 2px solid black;">
+      <a href="../images/projet_DE/fastapi_1.png" class="image-popup" title="FastAPI">
+        <img src="../images/projet_DE/fastapi_1.png" alt="vignette" style="width: 80px; border: 2px solid black;">
+      </a>
+      <a href="../images/projet_DE/fastapi_2.png" class="image-popup" title="FastAPI">
+        <img src="../images/projet_DE/fastapi_2.png" alt="vignette" style="width: 80px; border: 2px solid black;">
+      </a>
+      <a href="../images/projet_DE/fastapi_3.png" class="image-popup" title="FastAPI">
+        <img src="../images/projet_DE/fastapi_3.png" alt="vignette" style="width: 80px; border: 2px solid black;">
       </a>
     </td>
   </tr>
@@ -144,7 +154,9 @@ done :
     - Conservation des offres d'emploi en France métropolitaine uniquement
     - Ajout des données de localisation des offres d'emploi (ville, département, région) à partir de données récupérées sur le site de l'Insee, parfois à partir des coordonnées gps (avec la librairie Python geopy)
 
-  - Stockage dans une base de données relationnelle *[PostgreSQL]*, avec une modélisation en flocon de neige
+  - Stockage dans une base de données relationnelle *[PostgreSQL]* :
+    - Modélisation en flocon de neige
+    - Parallélisation des requêtes SQL pour écrire dans la base de données
 
   - Transformations des données après stockage *[SQL]* :
     - Ajout d'un attribut pour préciser si l'offre d'emploi est pour un DA, un DE ou un DS
