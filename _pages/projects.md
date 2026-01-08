@@ -14,7 +14,7 @@ header:
 **Analyse des offres d’emploi de la data et de la tech en France**
 
 
-📹 <u>Galerie de screenshots</u>
+🖼️ <u>Galerie de screenshots</u>
 
   <!-- <div style="max-width: 400px; margin: 0 auto;">
     <video controls muted style="width: 100%; height: auto;">
@@ -24,17 +24,17 @@ header:
 
 
 
-ℹ️ Cliquez sur une vignette pour l'afficher en plein écran
+(ℹ️ Cliquez sur une vignette pour l'afficher en plein écran)
+
 
 <table>
-
 
   <tr>
     <td>Airflow</td>
     <td>
       <a href="../images/projet_DE/airflow.png" title="Airflow : 2 DAGs pour l'ETL">   <!-- title = "lightbox" -->
         <!-- <img src="../images/projet_DE/airflow.png" alt="vignette" style="height: 50px; width: auto; border: 2px solid black;"> -->
-        <img src="../images/projet_DE/airflow.png" alt="vignette" style="width: 50; border: 2px solid black;">
+        <img src="../images/projet_DE/airflow.png" alt="vignette" style="width: 50px; border: 2px solid black;">
       </a>
     </td>
   </tr>
@@ -44,7 +44,7 @@ header:
     <td>
       <a href="../images/projet_DE/fastapi.png" class="image-popup" title="FastAPI">
         <!-- <img src="../images/projet_DE/fastapi.png" alt="vignette" style="height: 60px; width: auto;"> -->
-        <img src="../images/projet_DE/fastapi.png" alt="vignette" style="width: 70; border: 2px solid black;">
+        <img src="../images/projet_DE/fastapi.png" alt="vignette" style="width: 70px; border: 2px solid black;">
       </a>
     </td>
   </tr>

@@ -166,6 +166,7 @@ header:
   </tr>
   <tr>
     <td>Machine Learning</td>
+    <td>Régression, classification</td>
     <td></td>
   </tr>
   <tr>
