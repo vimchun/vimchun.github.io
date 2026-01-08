@@ -64,10 +64,6 @@ header:
 **Compétences issues des expériences passées et transférables vers la Data :**
 
 <table>
-  <!-- <tr>
-    <td>Domaine</td>
-    <td>Compétences</td>
-  </tr> -->
   <tr>
     <td>Compétences <br> techniques</td>
     <td>
@@ -88,10 +84,6 @@ header:
     </td>
   </tr>
 </table>
-
-
-
-**Langues :** <span class="smaller-text">Français (C2), Anglais (C1), Vietnamien (B1)</span>
 
 
 **Langues :**
@@ -245,6 +237,25 @@ header:
 <div class="smaller-text">
 
 🥋 Arts martiaux (Wing Chun, Penchak Silat) <br> ️🏃🏻 Calisthénie <br> 🎸 Guitare électrique (autodidacte)
+
+
+# 📋 Centres d'intérêt
+
+<table>
+  <tr>
+    <td>
+      🥋 Arts martiaux (Wing Chun, Penchak Silat) <br>
+    </td>
+    <td>
+      🏃🏻 Calisthénie <br>
+    </td>
+    <td>
+      🎸 Guitare électrique (autodidacte)
+    </td>
+  </tr>
+</table>
+
+
 
 </div>
 
