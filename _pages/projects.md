@@ -16,7 +16,8 @@ header:
 
 🖼️ <u>Galerie de screenshots</u>
 
-<div class="smaller-text">
+<!-- <div style="font-size: 14px; line-height: 1.4;"> -->
+<div style="font-size: 14px;">
 
 *(ℹ️ Cliquez sur une vignette pour l'afficher en plein écran)*
 
