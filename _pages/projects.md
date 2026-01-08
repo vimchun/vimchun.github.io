@@ -39,7 +39,8 @@ autre solution :
     <td>
       <!-- <a href="../images/projet_DE/airflow.png" class="image-popup" title="Airflow : 2 DAGs pour l'ETL"> -->
       <a href="../images/projet_DE/airflow.png" title="Airflow : 2 DAGs pour l'ETL">
-        <img src="../images/projet_DE/airflow.png" alt="vignette" height="100">
+        <!-- <img src="../images/projet_DE/airflow.png" alt="vignette" height="100"> -->
+        <img src="../images/projet_DE/airflow.png" alt="vignette" style="height: 100px; width: auto;">
       </a>
     </td>
   </tr>
