@@ -18,7 +18,7 @@ header:
 
 <div class="smaller-text">
 
-(ℹ️ Cliquez sur une vignette pour l'afficher en plein écran)
+*(ℹ️ Cliquez sur une vignette pour l'afficher en plein écran)*
 
 </div>
 
