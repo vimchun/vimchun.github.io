@@ -37,7 +37,8 @@ autre solution :
   <tr>
     <td>Airflow</td>
     <td>
-      <a href="../images/projet_DE/airflow.png" class="image-popup" title="Airflow : 2 DAGs pour l'ETL">
+      <!-- <a href="../images/projet_DE/airflow.png" class="image-popup" title="Airflow : 2 DAGs pour l'ETL"> -->
+      <a href="../images/projet_DE/airflow.png" title="Airflow : 2 DAGs pour l'ETL">
         <img src="../images/projet_DE/airflow.png" alt="vignette" height="100">
       </a>
     </td>
@@ -49,7 +50,7 @@ autre solution :
     <td>
       <a href="../images/projet_DE/fastapi.png" class="image-popup" title="FastAPI">
         <img src="../images/projet_DE/fastapi.png" alt="vignette" height="100">
-      </a>                                                                                                                                                              |
+      </a>
     </td>
   </tr>
 
@@ -57,9 +58,9 @@ autre solution :
   <tr>
     <td>Power BI</td>
     <td>
-      <a href="../images/projet_DE/powerbi_4.png" title="Power BI">
+      <a href="../images/projet_DE/powerbi_4.png" class="image-popup" title="Power BI">
         <img src="../images/projet_DE/powerbi_4.png" alt="vignette" height="1">
-      </a>                                                                                                                                                              |
+      </a>
     </td>
   </tr>
 
@@ -69,10 +70,10 @@ autre solution :
     <td>
       <a href="../images/projet_DE/monitoring_1.png" title="Grafana">
         <img src="../images/projet_DE/monitoring_1.png" alt="vignette" height="2">
-      </a>                                                                                                                                                              |
+      </a>
       <a href="../images/projet_DE/monitoring_2.png" title="Grafana">
         <img src="../images/projet_DE/monitoring_2.png" alt="vignette" height="15">
-      </a>                                                                                                                                                              |
+      </a>
     </td>
   </tr>
 
@@ -85,7 +86,7 @@ autre solution :
     <td>
       <a href="../images/projet_DE/architecture.png" title="Architecture">
         <img src="../images/projet_DE/architecture.png" alt="vignette" height="15">
-      </a>                                                                                                                                                              |
+      </a>
     </td>
   </tr>
 </table>
