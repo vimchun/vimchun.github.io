@@ -30,8 +30,6 @@ header:
 
 <!-- <div style="margin-left: 2em;">  pour que le tableau ait un alinéa -->
 
-  | | |
-  | ---------------- | ----------------------------------------- |
   | Langages         | Python, SQL, Bash                         |
   | Data             | Pandas, PySpark, Airflow                  |
   | Visualisation    | Power BI, Matplotlib, Seaborn             |
@@ -39,6 +37,89 @@ header:
   | Infrastructure   | Git, Docker, FastAPI, Kubernetes, Jenkins |
   | Monitoring       | Prometheus, Grafana                       |
   | Cloud            | AWS                                       |
+
+v1
+<table>
+  <tr>
+    <td>Langages</td>
+    <td>Python, SQL, Bash</td>
+  </tr>
+  <tr>
+    <td>Data</td>
+    <td>Pandas, PySpark, Airflow</td>
+  </tr>
+  <tr>
+    <td>Visualisation</td>
+    <td>Power BI, Matplotlib, Seaborn</td>
+  </tr>
+  <tr>
+    <td>Bases de données</td>
+    <td>PostgresSQL</td>
+  </tr>
+  <tr>
+    <td>Infrastructure</td>
+    <td>Git, Docker, FastAPI, Kubernetes, Jenkins</td>
+  </tr>
+  <tr>
+    <td>Monitoring</td>
+    <td>Prometheus, Grafana</td>
+  </tr>
+  <tr>
+    <td>Cloud</td>
+    <td>AWS</td>
+  </tr>
+</table>
+
+
+v2
+
+
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+  }
+  tr:nth-child(even) {
+    background: #f9f9f9;
+  }
+</style>
+
+<table>
+  <tr>
+    <td>Langages</td>
+    <td>Python, SQL, Bash</td>
+  </tr>
+  <tr>
+    <td>Data</td>
+    <td>Pandas, PySpark, Airflow</td>
+  </tr>
+  <tr>
+    <td>Visualisation</td>
+    <td>Power BI, Matplotlib, Seaborn</td>
+  </tr>
+  <tr>
+    <td>Bases de données</td>
+    <td>PostgresSQL</td>
+  </tr>
+  <tr>
+    <td>Infrastructure</td>
+    <td>Git, Docker, FastAPI, Kubernetes, Jenkins</td>
+  </tr>
+  <tr>
+    <td>Monitoring</td>
+    <td>Prometheus, Grafana</td>
+  </tr>
+  <tr>
+    <td>Cloud</td>
+    <td>AWS</td>
+  </tr>
+</table>
+
+
 
 <!-- </div> -->
 
