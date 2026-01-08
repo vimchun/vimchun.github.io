@@ -86,24 +86,6 @@ header:
 </table>
 
 
-**Langues :**
-
-<table class="table-full-bordered">
-  <tr>
-    <td>Français</td>
-    <td>C2</td>
-  </tr>
-  <tr>
-    <td>Anglais</td>
-    <td>C1</td>
-  </tr>
-  <tr>
-    <td>Vietnamien</td>
-    <td>B1</td>
-  </tr>
-</table>
-
-
 
 **Langues :**
 
@@ -265,9 +247,13 @@ header:
     <td>
       🥋 Arts martiaux (Wing Chun, Penchak Silat) <br>
     </td>
+  </tr>
+  <tr>
     <td>
       🏃🏻 Calisthénie <br>
     </td>
+  </tr>
+  <tr>
     <td>
       🎸 Guitare électrique (autodidacte)
     </td>
