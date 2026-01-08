@@ -60,14 +60,6 @@ header:
 </table>
 
 
-**Compétences issues des expériences passées et transférables vers la Data :**
-
-
-  | Domaine                        | Compétences                                                                                                                                                                                                                                                             |
-  | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | Compétences <br> techniques    | • Automatisation, développement de scripts <br> • Travail dans un environnement technique : Linux, Docker, Git, Jenkins, Kubernetes, AWS <br> • Détection d’anomalies et investigation                                                                                  |
-  | Compétences <br> transversales | • Méthode Agile, amélioration continue <br> • Collaboration et coordination inter-équipes <br> • Communication et qualité rédactionnelle <br> • Mise en place de métriques <br> • Rigueur, autonomie, force de proposition, esprit de synthèse <br> • Anglais technique |
-
 
 **Compétences issues des expériences passées et transférables vers la Data :**
 
@@ -80,7 +72,7 @@ header:
     <td>Compétences <br> techniques</td>
     <td>
       • Automatisation, développement de scripts <br>
-      • Travail dans un environnement technique : Linux, Docker, Git, Jenkins, Kubernetes, AWS <br>
+      • Expériences sur environnement technique : Linux, Docker, Git, Jenkins, Kubernetes, AWS <br>
       • Détection d’anomalies et investigation
     </td>
   </tr>
@@ -102,24 +94,29 @@ header:
 **Langues :** <span class="smaller-text">Français (C2), Anglais (C1), Vietnamien (B1)</span>
 
 
+**Langues :**
+
+<table>
+  <tr>
+    <td>Français</td>
+    <td>C2</td>
+  </tr>
+  <tr>
+    <td>Anglais</td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>Vietnamien</td>
+    <td>B1</td>
+  </tr>
+</table>
+
+
 ---
 
 # 📘 Parcours
 
 **2025 : Formation AWS Solutions Architect Associate (SAA-C03)** | <span class="smaller-text"> *Udemy* (objectif certification en 2026) </span>
-
-
-**2025 : Formation Data Engineer** | <span class="smaller-text"> *DataScientest (400 heures)* </span>
-
-  | Domaine                  | Compétences                 |
-  | ------------------------ | --------------------------- |
-  | Outils avancés           | Linux, Bash, Git, Github    |
-  | Big Data Variété         | SQL, MongoDB                |
-  | Batch et Streaming       | PySpark                     |
-  | Cloud                    | AWS                         |
-  | Devops et virtualisation | FastAPI, Docker, Kubernetes |
-  | CI/CD                    | Airflow                     |
-  | Monitoring               | Prometheus, Grafana         |
 
 
 **2025 : Formation Data Engineer** | <span class="smaller-text"> *DataScientest (400 heures)* </span>
@@ -154,19 +151,6 @@ header:
     <td>Prometheus, Grafana</td>
   </tr>
 </table>
-
-
-
-**2024 : Formation Data Analyst** | <span class="smaller-text"> *DataScientest (300 heures)* </span>
-
-  | Domaine                  | Compétences                        |
-  | ------------------------ | ---------------------------------- |
-  | Langage de programmation | Python, Numpy, Pandas              |
-  | Visualisation de données | Matplotlib, Seaborn, Plotly, Bokeh |
-  | Machine Learning         |                                    |
-  | Business Intelligence    | Power BI                           |
-  | Extraction de données    | Text Mining, Web Scrapping         |
-  | Base de données          | SQL                                |
 
 
 **2024 : Formation Data Analyst** | <span class="smaller-text"> *DataScientest (300 heures)* </span>
