@@ -104,15 +104,6 @@ header:
 </div>
 
 
-📈 <u>Exemples d’insights</u>
-
-<div class="smaller-text">
-
-  - Compétences et soft skills les plus demandés par les recruteurs
-  - Mots-clés les plus récurrents dans les offres d’emploi
-
-</div>
-
 
 📝 <u>Actions</u>
 
@@ -140,22 +131,32 @@ header:
 
 - Développement d’une API *[FastAPI]* :
 
-  - Paramètres pour filtrer les offres d'emploi par leur localisation (région, département, ville), les offres d'emploi valides, et par les métiers de la data (Data Analyst, Data Engineer, Data Scientist)
-  - Consultation des attributs d'une offre d'emploi par son identifiant
-  - Voir les offres les plus récentes
+  - Filtres possibles :
+    - offres d'emploi par leur localisation (région, département, ville)
+    - offres d'emploi valides
+    - métiers de la data (Data Analyst, Data Engineer, Data Scientist)
+
   - Ajout, suppression d'une offre factice
-  - Affichage de statistiques : nombre total des offres d'emploi, classements des régions/départements/villes qui recrutent le plus
-  - Affichage des critères les plus demandés par les recruteurs, par exemple pour un Data Engineer :
-    - la compétence la plus demandée : "Analyser, exploiter, structurer des données"
-    - la qualité professionnelle la plus demandée : "Faire preuve d'autonomie"
+
+  - Récupération :
+    - des attributs d'une offre d'emploi grâce à l'identifiant de l'offre
+    - des offres les plus récentes
+    - de statistiques :
+      - nombre total des offres d'emploi
+      - classement des régions/départements/villes qui recrutent le plus
+    - des critères les plus demandés par les recruteurs, par exemple pour un Data Engineer :
+      - la compétence la plus demandée : "Analyser, exploiter, structurer des données"
+      - la qualité professionnelle la plus demandée : "Faire preuve d'autonomie"
 
 
-- Conception de dashboards BI *[PowerBI]*
+- Conception de dashboards BI *[PowerBI]* :
 
+  - Exemples d’insights :
+    - Compétences et soft skills les plus demandés par les recruteurs
+    - Mots-clés les plus récurrents dans les offres d’emploi
 
 
 - Mise en place d’un système de monitoring *[Grafana/Prometheus]* :
-
 
   - Supervision des métriques d'Airflow (statsd_exporter), de la machine hôte (node_exporter), de la base de données (postgres_exporter) et des conteneurs (cadvisor)
 
