@@ -16,8 +16,11 @@ header:
 
 🖼️ <u>Galerie de screenshots</u>
 
+<div class="smaller-text">
+
 (ℹ️ Cliquez sur une vignette pour l'afficher en plein écran)
 
+</div>
 
 <table>
 
@@ -25,10 +28,10 @@ header:
     <td>Airflow</td>
     <td>
       <a href="../images/projet_DE/airflow_1.png" title="Airflow : 2 DAGs pour l'ETL">
-        <img src="../images/projet_DE/airflow_1.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+        <img src="../images/projet_DE/airflow_1.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/airflow_2.png" title="Airflow : version 3.0">
-        <img src="../images/projet_DE/airflow_2.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+        <img src="../images/projet_DE/airflow_2.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
     </td>
   </tr>
@@ -37,13 +40,13 @@ header:
     <td>FastAPI</td>
     <td>
       <a href="../images/projet_DE/fastapi_1.png" class="image-popup" title="FastAPI : toutes les APIs">
-        <img src="../images/projet_DE/fastapi_1.png" alt="vignette" style="width: 82px; border: 1px solid black;">
+        <img src="../images/projet_DE/fastapi_1.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/fastapi_2.png" class="image-popup" title="FastAPI : récupère les attributs ajoutés issus des transformations">
-        <img src="../images/projet_DE/fastapi_2.png" alt="vignette" style="width: 82px; border: 1px solid black;">
+        <img src="../images/projet_DE/fastapi_2.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/fastapi_3.png" class="image-popup" title="FastAPI : récupère les offres d'emploi pour le métier Data Engineer, comprenant les offres expirées sur le code région 11 (IDF)">
-        <img src="../images/projet_DE/fastapi_3.png" alt="vignette" style="width: 82px; border: 1px solid black;">
+        <img src="../images/projet_DE/fastapi_3.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
     </td>
   </tr>
@@ -67,13 +70,13 @@ header:
     <td>Grafana</td>
     <td>
       <a href="../images/projet_DE/monitoring_1.png" title="Grafana : en jaune le DAG 1, en bleu le DAG 2 (GUI d'Airflow)">
-        <img src="../images/projet_DE/monitoring_1.png" alt="vignette" style="width: 86px; border: 1px solid black;">
+        <img src="../images/projet_DE/monitoring_1.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/monitoring_2.png" title="Grafana (cAdvisor) : affichage de la consommation CPU et mémoire des conteneurs docker">
-        <img src="../images/projet_DE/monitoring_2.png" alt="vignette" style="width: 86px; border: 1px solid black;">
+        <img src="../images/projet_DE/monitoring_2.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/monitoring_3.png" title="Grafana (node-exporter) : affichage de la consommation CPU, mémoire, réseau et disque de la machine hôte">
-        <img src="../images/projet_DE/monitoring_3.png" alt="vignette" style="width: 86px; border: 1px solid black;">
+        <img src="../images/projet_DE/monitoring_3.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
     </td>
   </tr>
@@ -82,7 +85,7 @@ header:
     <td>Architecture</td>
     <td>
       <a href="../images/projet_DE/architecture.png" title="Architecture du projet, principalement dockerisé">
-        <img src="../images/projet_DE/architecture.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+        <img src="../images/projet_DE/architecture.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
     </td>
   </tr>
