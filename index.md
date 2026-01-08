@@ -28,21 +28,6 @@ header:
 
 **Compétences techniques :**
 
-<!-- <div style="margin-left: 2em;">  pour que le tableau ait un alinéa -->
-
-  | Domaine          | Compétences                               |
-  | ---------------- | ----------------------------------------- |
-  | Langages         | Python, SQL, Bash                         |
-  | Data             | Pandas, PySpark, Airflow                  |
-  | Visualisation    | Power BI, Matplotlib, Seaborn             |
-  | Bases de données | PostgresSQL                               |
-  | Infrastructure   | Git, Docker, FastAPI, Kubernetes, Jenkins |
-  | Monitoring       | Prometheus, Grafana                       |
-  | Cloud            | AWS                                       |
-
-
-**Compétences techniques :**
-
 <table>
   <tr>
     <td>Langages</td>
@@ -54,7 +39,7 @@ header:
   </tr>
   <tr>
     <td>Visualisation</td>
-    <td>Power BI, Matplotlib, Seaborn</td>
+    <td>Power BI, Matplotlib</td>
   </tr>
   <tr>
     <td>Bases de données</td>
@@ -75,9 +60,6 @@ header:
 </table>
 
 
-<!-- </div> -->
-
-
 **Compétences issues des expériences passées et transférables vers la Data :**
 
 
@@ -85,6 +67,36 @@ header:
   | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
   | Compétences <br> techniques    | • Automatisation, développement de scripts <br> • Travail dans un environnement technique : Linux, Docker, Git, Jenkins, Kubernetes, AWS <br> • Détection d’anomalies et investigation                                                                                  |
   | Compétences <br> transversales | • Méthode Agile, amélioration continue <br> • Collaboration et coordination inter-équipes <br> • Communication et qualité rédactionnelle <br> • Mise en place de métriques <br> • Rigueur, autonomie, force de proposition, esprit de synthèse <br> • Anglais technique |
+
+
+**Compétences issues des expériences passées et transférables vers la Data :**
+
+<table>
+  <!-- <tr>
+    <td>Domaine</td>
+    <td>Compétences</td>
+  </tr> -->
+  <tr>
+    <td>Compétences <br> techniques</td>
+    <td>
+      • Automatisation, développement de scripts <br>
+      • Travail dans un environnement technique : Linux, Docker, Git, Jenkins, Kubernetes, AWS <br>
+      • Détection d’anomalies et investigation
+    </td>
+  </tr>
+  <tr>
+    <td>Compétences <br> transversales</td>
+    <td>
+      • Méthode Agile, amélioration continue <br>
+      • Collaboration et coordination inter‑équipes <br>
+      • Communication et qualité rédactionnelle <br>
+      • Mise en place de métriques <br>
+      • Rigueur, autonomie, force de proposition, esprit de synthèse <br>
+      • Anglais technique
+    </td>
+  </tr>
+</table>
+
 
 
 **Langues :** <span class="smaller-text">Français (C2), Anglais (C1), Vietnamien (B1)</span>
@@ -110,6 +122,41 @@ header:
   | Monitoring               | Prometheus, Grafana         |
 
 
+**2025 : Formation Data Engineer** | <span class="smaller-text"> *DataScientest (400 heures)* </span>
+
+<table>
+  <tr>
+    <td>Outils avancés</td>
+    <td>Linux, Bash, Git, Github</td>
+  </tr>
+  <tr>
+    <td>Big Data Variété</td>
+    <td>SQL, MongoDB</td>
+  </tr>
+  <tr>
+    <td>Batch et Streaming</td>
+    <td>PySpark</td>
+  </tr>
+  <tr>
+    <td>Cloud</td>
+    <td>AWS</td>
+  </tr>
+  <tr>
+    <td>Devops et virtualisation</td>
+    <td>FastAPI, Docker, Kubernetes</td>
+  </tr>
+  <tr>
+    <td>CI/CD</td>
+    <td>Airflow</td>
+  </tr>
+  <tr>
+    <td>Monitoring</td>
+    <td>Prometheus, Grafana</td>
+  </tr>
+</table>
+
+
+
 **2024 : Formation Data Analyst** | <span class="smaller-text"> *DataScientest (300 heures)* </span>
 
   | Domaine                  | Compétences                        |
@@ -120,6 +167,37 @@ header:
   | Business Intelligence    | Power BI                           |
   | Extraction de données    | Text Mining, Web Scrapping         |
   | Base de données          | SQL                                |
+
+
+**2024 : Formation Data Analyst** | <span class="smaller-text"> *DataScientest (300 heures)* </span>
+
+<table>
+  <tr>
+    <td>Langage de programmation</td>
+    <td>Python, Numpy, Pandas</td>
+  </tr>
+  <tr>
+    <td>Visualisation de données</td>
+    <td>Matplotlib, Seaborn, Plotly, Bokeh</td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Business Intelligence</td>
+    <td>Power BI</td>
+  </tr>
+  <tr>
+    <td>Extraction de données</td>
+    <td>Text Mining, Web Scrapping</td>
+  </tr>
+  <tr>
+    <td>Base de données</td>
+    <td>SQL</td>
+  </tr>
+</table>
+
 
 
 **2009–2024 : Ingénieur QA (test et automatisation)** | <span class="smaller-text"> *Pace (2006-2009), Canal+ (2009-2010), Cisco (2010-2015) et Ateme (2015-2024)* </span>
