@@ -38,7 +38,7 @@ autre solution :
     <td>Airflow</td>
     <td>
       <a href="../images/projet_DE/airflow.png" title="Airflow : 2 DAGs pour l'ETL">   <!-- title = "lightbox" -->
-        <img src="../images/projet_DE/airflow.png" alt="vignette" style="height: 50px; width: auto;">
+        <img src="../images/projet_DE/airflow.png" alt="vignette" style="height: 50px; width: auto; border: 2px solid black;">
       </a>
     </td>
   </tr>
@@ -47,7 +47,7 @@ autre solution :
     <td>FastAPI</td>
     <td>
       <a href="../images/projet_DE/fastapi.png" class="image-popup" title="FastAPI">
-        <img src="../images/projet_DE/fastapi.png" alt="vignette" style="height: 100; width: auto;">
+        <img src="../images/projet_DE/fastapi.png" alt="vignette" style="height: 60px; width: auto;">
       </a>
     </td>
   </tr>
