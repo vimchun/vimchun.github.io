@@ -14,22 +14,17 @@ header:
 **Analyse des offres d’emploi de la data et de la tech en France**
 
 
-📹 <u>Slideshow</u>
+📹 <u>Galerie de screenshots</u>
 
-  <div style="max-width: 400px; margin: 0 auto;">
+  <!-- <div style="max-width: 400px; margin: 0 auto;">
     <video controls muted style="width: 100%; height: auto;">
       <source src="/videos/project-DE-slideshow.mp4" type="video/mp4">
     </video>
-  </div>
-
-<!--
-  | Airflow |
-  | FastAPI |
-  | Grafana |
- -->
+  </div> -->
 
 
-autre solution :
+
+ℹ️ Cliquez sur une vignette pour l'afficher en plein écran
 
 <table>
 
@@ -38,7 +33,8 @@ autre solution :
     <td>Airflow</td>
     <td>
       <a href="../images/projet_DE/airflow.png" title="Airflow : 2 DAGs pour l'ETL">   <!-- title = "lightbox" -->
-        <img src="../images/projet_DE/airflow.png" alt="vignette" style="height: 50px; width: auto; border: 2px solid black;">
+        <!-- <img src="../images/projet_DE/airflow.png" alt="vignette" style="height: 50px; width: auto; border: 2px solid black;"> -->
+        <img src="../images/projet_DE/airflow.png" alt="vignette" style="width: 50; border: 2px solid black;">
       </a>
     </td>
   </tr>
@@ -47,7 +43,8 @@ autre solution :
     <td>FastAPI</td>
     <td>
       <a href="../images/projet_DE/fastapi.png" class="image-popup" title="FastAPI">
-        <img src="../images/projet_DE/fastapi.png" alt="vignette" style="height: 60px; width: auto;">
+        <!-- <img src="../images/projet_DE/fastapi.png" alt="vignette" style="height: 60px; width: auto;"> -->
+        <img src="../images/projet_DE/fastapi.png" alt="vignette" style="width: 70; border: 2px solid black;">
       </a>
     </td>
   </tr>
@@ -57,7 +54,8 @@ autre solution :
     <td>Power BI</td>
     <td>
       <a href="../images/projet_DE/powerbi_4.png" class="image-popup" title="Power BI">
-        <img src="../images/projet_DE/powerbi_4.png" alt="vignette" style="height: 100px; width: auto;">
+        <!-- <img src="../images/projet_DE/powerbi_4.png" alt="vignette" style="height: 100px; width: auto;"> -->
+        <img src="../images/projet_DE/powerbi_4.png" alt="vignette" style="width: 90; border: 2px solid black;">
       </a>
     </td>
   </tr>
