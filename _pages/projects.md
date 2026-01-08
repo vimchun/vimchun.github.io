@@ -60,8 +60,8 @@ header:
       <a href="../images/projet_DE/powerbi_2.png" class="image-popup" title="Power BI : localisation des offres grâce aux transformations de l'ETL">
         <img src="../images/projet_DE/powerbi_2.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
-      <a href="../images/projet_DE/powerbi_2.png" class="image-popup" title="Power BI : mots-clés apparaissant le plus souvent dans les offres d'emploi">
-        <img src="../images/projet_DE/powerbi_2.png" alt="vignette" style="width: 85px; border: 1px solid black;">
+      <a href="../images/projet_DE/powerbi_3.png" class="image-popup" title="Power BI : mots-clés apparaissant le plus souvent dans les offres d'emploi">
+        <img src="../images/projet_DE/powerbi_3.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
     </td>
   </tr>
