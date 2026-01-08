@@ -34,7 +34,7 @@ header:
     <td>
       <a href="../images/projet_DE/airflow.png" title="Airflow : 2 DAGs pour l'ETL">   <!-- title = "lightbox" -->
         <!-- <img src="../images/projet_DE/airflow.png" alt="vignette" style="height: 50px; width: auto; border: 2px solid black;"> -->
-        <img src="../images/projet_DE/airflow.png" alt="vignette" style="width: 50px; border: 2px solid black;">
+        <img src="../images/projet_DE/airflow.png" alt="vignette" style="width: 80px; border: 2px solid black;">
       </a>
     </td>
   </tr>
@@ -44,7 +44,7 @@ header:
     <td>
       <a href="../images/projet_DE/fastapi.png" class="image-popup" title="FastAPI">
         <!-- <img src="../images/projet_DE/fastapi.png" alt="vignette" style="height: 60px; width: auto;"> -->
-        <img src="../images/projet_DE/fastapi.png" alt="vignette" style="width: 70px; border: 2px solid black;">
+        <img src="../images/projet_DE/fastapi.png" alt="vignette" style="width: 80px; border: 2px solid black;">
       </a>
     </td>
   </tr>
@@ -55,7 +55,7 @@ header:
     <td>
       <a href="../images/projet_DE/powerbi_4.png" class="image-popup" title="Power BI">
         <!-- <img src="../images/projet_DE/powerbi_4.png" alt="vignette" style="height: 100px; width: auto;"> -->
-        <img src="../images/projet_DE/powerbi_4.png" alt="vignette" style="width: 90; border: 2px solid black;">
+        <img src="../images/projet_DE/powerbi_4.png" alt="vignette" style="width: 80px; border: 2px solid black;">
       </a>
     </td>
   </tr>
@@ -65,10 +65,12 @@ header:
     <td>Grafana</td>
     <td>
       <a href="../images/projet_DE/monitoring_1.png" title="Grafana">
-        <img src="../images/projet_DE/monitoring_1.png" alt="vignette" height="2">
+        <!-- <img src="../images/projet_DE/monitoring_1.png" alt="vignette" height="2"> -->
+        <img src="../images/projet_DE/monitoring_1.png" alt="vignette" style="width: 80px; border: 2px solid black;">
       </a>
       <a href="../images/projet_DE/monitoring_2.png" title="Grafana">
-        <img src="../images/projet_DE/monitoring_2.png" alt="vignette" height="15">
+        <!-- <img src="../images/projet_DE/monitoring_2.png" alt="vignette" height="15"> -->
+        <img src="../images/projet_DE/monitoring_2.png" alt="vignette" style="width: 80px; border: 2px solid black;">
       </a>
     </td>
   </tr>
