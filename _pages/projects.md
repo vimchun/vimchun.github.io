@@ -45,13 +45,13 @@ header:
     <td>FastAPI</td>
     <td>
       <a href="../images/projet_DE/fastapi_1.png" class="image-popup" title="FastAPI : toutes les APIs">
-        <img src="../images/projet_DE/fastapi_1.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+        <img src="../images/projet_DE/fastapi_1.png" alt="vignette" style="width: 82px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/fastapi_2.png" class="image-popup" title="FastAPI : récupère les attributs ajoutés issus des transformations">
-        <img src="../images/projet_DE/fastapi_2.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+        <img src="../images/projet_DE/fastapi_2.png" alt="vignette" style="width: 82px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/fastapi_3.png" class="image-popup" title="FastAPI : récupère les offres d'emploi pour le métier Data Engineer, comprenant les offres expirées sur le code région 11 (IDF)">
-        <img src="../images/projet_DE/fastapi_3.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+        <img src="../images/projet_DE/fastapi_3.png" alt="vignette" style="width: 82px; border: 1px solid black;">
       </a>
     </td>
   </tr>
@@ -60,13 +60,13 @@ header:
     <td>Power BI</td>
     <td>
       <a href="../images/projet_DE/powerbi_1.png" class="image-popup" title="Power BI : top 10 des qualifications professionnelles et qualifications">
-        <img src="../images/projet_DE/powerbi_1.png" alt="vignette" style="width: 90px; border: 1px solid black;">
+        <img src="../images/projet_DE/powerbi_1.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/powerbi_2.png" class="image-popup" title="Power BI : localisation des offres grâce aux transformations de l'ETL">
-        <img src="../images/projet_DE/powerbi_2.png" alt="vignette" style="width: 90px; border: 1px solid black;">
+        <img src="../images/projet_DE/powerbi_2.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/powerbi_2.png" class="image-popup" title="Power BI : comptage des mots-clés apparaissant le plus souvent dans les offres d'emploi">
-        <img src="../images/projet_DE/powerbi_2.png" alt="vignette" style="width: 90px; border: 1px solid black;">
+        <img src="../images/projet_DE/powerbi_2.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
     </td>
   </tr>
