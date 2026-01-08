@@ -86,6 +86,15 @@ header:
     </td>
   </tr>
 
+  <tr>
+    <td>Architecture</td>
+    <td>
+      <a href="../images/projet_DE/architecture.png" title="Architecture du projet, principalement dockerisé">
+        <img src="../images/projet_DE/architecture.png" alt="vignette" style="width: 80px; border: 1px solid black;">
+      </a>
+    </td>
+  </tr>
+
 
 
 
