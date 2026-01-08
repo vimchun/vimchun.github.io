@@ -15,6 +15,19 @@ ul ul { margin-bottom: 2em; }  // espace après les sous-listes
 }
 
 
+/* tableau personnalisé : bordure complète */
+.table-full-bordered {
+  border-collapse: collapse;        /* fait fusionner les bordures */
+  border: 1px solid #000;           /* bordure noire autour du tableau */
+}
+
+/* bordures internes aussi */
+.table-full-bordered td {
+  border: 1px solid #000;           /* bordure autour de chaque cellule */
+}
+
+
+
 /*
 ul — Unordered List (liste avec des puces)
 ol — Ordered List (liste avec des numéros (1., 2., 3.))

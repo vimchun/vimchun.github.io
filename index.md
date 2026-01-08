@@ -88,6 +88,25 @@ header:
 
 **Langues :**
 
+<table class="table-full-bordered">
+  <tr>
+    <td>Français</td>
+    <td>C2</td>
+  </tr>
+  <tr>
+    <td>Anglais</td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>Vietnamien</td>
+    <td>B1</td>
+  </tr>
+</table>
+
+
+
+**Langues :**
+
 <table>
   <tr>
     <td>Français</td>
