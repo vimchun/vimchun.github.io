@@ -30,6 +30,8 @@ header:
 
 <!-- <div style="margin-left: 2em;">  pour que le tableau ait un alinéa -->
 
+  | | |
+  | ---------------- | ----------------------------------------- |
   | Langages         | Python, SQL, Bash                         |
   | Data             | Pandas, PySpark, Airflow                  |
   | Visualisation    | Power BI, Matplotlib, Seaborn             |
