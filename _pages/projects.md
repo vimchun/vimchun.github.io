@@ -16,14 +16,6 @@ header:
 
 🖼️ <u>Galerie de screenshots</u>
 
-  <!-- <div style="max-width: 400px; margin: 0 auto;">
-    <video controls muted style="width: 100%; height: auto;">
-      <source src="/videos/project-DE-slideshow.mp4" type="video/mp4">
-    </video>
-  </div> -->
-
-
-
 (ℹ️ Cliquez sur une vignette pour l'afficher en plein écran)
 
 
@@ -56,7 +48,7 @@ header:
     </td>
   </tr>
 
-  <tr>
+  <!-- <tr>
     <td>Power BI</td>
     <td>
       <a href="../images/projet_DE/powerbi_1.png" class="image-popup" title="Power BI : top 10 des qualifications professionnelles et qualifications">
@@ -65,7 +57,7 @@ header:
       <a href="../images/projet_DE/powerbi_2.png" class="image-popup" title="Power BI : localisation des offres grâce aux transformations de l'ETL">
         <img src="../images/projet_DE/powerbi_2.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
-      <a href="../images/projet_DE/powerbi_2.png" class="image-popup" title="Power BI : comptage des mots-clés apparaissant le plus souvent dans les offres d'emploi">
+      <a href="../images/projet_DE/powerbi_2.png" class="image-popup" title="Power BI : mots-clés apparaissant le plus souvent dans les offres d'emploi">
         <img src="../images/projet_DE/powerbi_2.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
     </td>
@@ -84,7 +76,7 @@ header:
         <img src="../images/projet_DE/monitoring_3.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
     </td>
-  </tr>
+  </tr> -->
 
   <tr>
     <td>Architecture</td>
