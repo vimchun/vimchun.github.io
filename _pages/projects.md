@@ -74,7 +74,7 @@ header:
   <tr>
     <td>Grafana</td>
     <td>
-      <a href="../images/projet_DE/monitoring_1.png" title="Grafana : en jaune le DAG 1, en bleu le DAG 2 (vue sur Airflow)">
+      <a href="../images/projet_DE/monitoring_1.png" title="Grafana : en jaune le DAG 1, en bleu le DAG 2 (GUI d'Airflow)">
         <img src="../images/projet_DE/monitoring_1.png" alt="vignette" style="width: 85px; border: 1px solid black;">
       </a>
       <a href="../images/projet_DE/monitoring_2.png" title="Grafana (cAdvisor) : affichage de la consommation CPU et mémoire des conteneurs docker">
